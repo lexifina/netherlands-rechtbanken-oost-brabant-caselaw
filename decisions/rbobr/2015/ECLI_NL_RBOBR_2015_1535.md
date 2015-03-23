@@ -1,0 +1,498 @@
+---
+ecli: "ECLI:NL:RBOBR:2015:1535"
+court: "Rechtbank Oost-Brabant"
+court_code: "RBOBR"
+docket: "01/845468-14"
+decided: "2015-03-23"
+published: "2015-03-23"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2015:1535"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBOBR:2015:1535 Rechtbank Oost-Brabant , 23-03-2015 / 01/845468-14
+
+## Inhoudsindicatie
+
+Verdachte wordt terzake medeplegen van opzetheling, medeplegen van gewoonteheling en verboden wapenbezit veroordeeld tot een onvoorwaardelijke gevangenisstraf van 21 maanden.
+
+## Uitspraak
+
+vonnis
+
+RECHTBANK OOST-BRABANT
+
+Strafrecht
+
+Parketnummer: 01/845468-14
+
+Datum uitspraak: 23 maart 2015
+
+Verkort vonnis van de rechtbank Oost-Brabant, meervoudige kamer voor de behandeling van strafzaken, in de zaak tegen:
+
+[verdachte],
+
+geboren te [geboorteplaats] op [1965],
+
+wonende te [woonplaats], [adres],
+
+thans uit andere hoofde gedetineerd in het Huis van Bewaring te Grave.
+
+Dit vonnis is op tegenspraak gewezen naar aanleiding van het onderzoek ter terechtzitting van 8 oktober 2014, 22 december 2014 en 9 maart 2015.
+
+De rechtbank heeft kennisgenomen van de vordering van de officier van justitie en van hetgeen van de zijde van verdachte naar voren is gebracht.
+
+De tenlastelegging.
+De zaak is aanhangig gemaakt bij dagvaarding van 1 september 2014.
+
+Nadat de tenlastelegging op de terechtzitting van 9 maart 2015 is gewijzigd, is aan verdachte ten laste gelegd dat:
+
+1.
+hij op of omstreeks 23 juni 2014 te Tilburg, althans in Nederland, tezamen en
+in vereniging met een ander of anderen, althans alleen, met het oogmerk van
+wederrechtelijke toe-eigening heeft weggenomen een personenauto (Volkswagen
+Golf met kenteken [kenteken]), in elk geval enig goed, geheel of ten dele
+toebehorende aan [slachtoffer 1], in elk geval aan een ander of anderen dan aan
+verdachte en/of zijn mededader(s);
+
+subsidiair althans, indien het vorenstaande niet tot een veroordeling mocht of
+
+zou kunnen leiden:
+
+hij op of omstreeks 23 juni 2014 te Volkel, gemeente Uden,
+althans in Nederland, tezamen en in vereniging met een of meer anderen,
+althans alleen, een personenauto (Volkswagen Golf met kenteken [kenteken]) heeft
+verworven, voorhanden heeft gehad en/of heeft overgedragen, terwijl hij en/of
+zijn mededader(s) ten tijde van het verwerven of het voorhanden krijgen van
+deze personenauto wist(en), althans redelijkerwijs had(den) moeten vermoeden
+dat het (een) door misdrijf verkregen goed(eren) betrof;
+
+(artikel 416/417bis Wetboek van Strafrecht)
+
+2.
+hij in of omstreeks de pleegperiode van 19 februari 2012 tot en met 23 juni
+2014, in Volkel, althans in Nederland, tezamen en in vereniging met een
+ander(en) een gewoonte heeft/hebben gemaakt van het plegen van opzetheling,
+immers heeft/hebben verdachte en/of zijn mededader(s) op na te melden
+tijdstippen (telkens) na te melden goederen verworven, voorhanden gehad en/of
+overgedragen, terwijl hij en/of zijn mededader(s) ten tijde van het verwerven
+of het voorhanden krijgen van die goederen (telkens) wist(en) dat het door
+misdrijf verkregen goederen betrof:
+
+1. in of omstreeks de periode van 06 februari 2014 tot en met 23 juni 2014
+een Renault Twingo (kenteken [kenteken]), althans het chassis van voornoemd
+voertuig (delictnummer 2);
+
+2. in of omstreeks de periode van 07 januari 2014 tot en met 23 juni 2014 een
+Peugeot 508 SW (kenteken[kenteken]), althans een koffer uit voornoemd voertuig
+(delictnummer 3);
+
+3. in of omstreeks de periode van 15 augustus 2013 tot en met 23 juni 2014
+een Audi Q5 (kenteken [kenteken]), althans een jas en/of een strandtent uit
+voornoemd voertuig (delictnummer 4);
+
+4. in of omstreeks de periode van 19 juni 2013 tot en met 23 juni 2014 een VW
+Transporter (kenteken [kenteken]), althans een navigatiesysteem en/of een
+voetenbad en/of een brillenkoker en/of een versterker en/of een verrekijker
+uit voornoemd voertuig (delictnummer 5);
+
+5. in of omstreeks de periode van 01 juni 2013 tot en met 23 juni 2014 een VW
+Transporter (kenteken [kenteken]), althans een meetstok uit voornoemd voertuig
+(delictnummer 6);
+
+6. in of omstreeks de periode van 28 december 2013 tot en met 23 juni 2014 een
+Merida crossfiets (delictnummer 7);
+
+7. in of omstreeks de periode van 10 augustus 2013 tot en met 23 juni 2014
+een Skoda Octavia (kenteken [kenteken]), althans een navigatiesysteem uit
+voornoemd voertuig (delictnummer 8);
+
+8. in of omstreeks de periode van 15 april 2013 tot en met 23 juni 2014 een
+VW Passat (kenteken [kenteken]), althans meerdere pennen uit voornoemd voertuig
+(delictnummer 9);
+
+9. in of omstreeks de periode van 15 december 2013 tot en met 23 juni 2014 een
+VW Transporter (kenteken [kenteken]), althans vlaggen uit voornoemd voertuig
+(delictnummer 10);
+
+10. in of omstreeks de periode van 09 februari 2014 tot en met 23 juni 2014
+een VW Touran (kenteken [kenteken]), althans een navigatiesysteem/autoradio uit
+voornoemd voertuig (delictnummer 11);
+
+11. in of omstreeks de periode van 01 juni 2013 tot en met 23 juni 2014 een
+VW Transporter (kenteken [kenteken]), althans een jas uit voornoemd voertuig
+(delictnummer 12);
+
+12. in of omstreeks de periode van 01 juni 2013 tot en met 23 juni 2014 een
+VW Transporter (kenteken [kenteken]), althans meerdere pennen uit voornoemd
+voertuig (delictnummer 13);
+
+13. in of omstreeks de periode van 03 juni 2013 tot en met 23 juni 2014 een
+boot, merk Bayliner (registratienummer [kenteken]) en/of een trailer (kenteken
+[kenteken]) (delictnummer 15);
+
+14. in of omstreeks de periode van 21 juni 2014 tot en met 23 juni 2014 een
+Mercedes Benz (kenteken [kenteken]) (delictnummer 16);
+
+15. in of omstreeks de periode van 24 mei 2014 tot en met 23 juni 2014 een
+Mercedes Benz (kenteken [kenteken]), althans de middenconsole met
+versnellingspook van voornoemd voertuig (delictnummer 17);
+
+16. in of omstreeks de periode van 31 mei 2014 tot en met 23 juni 2014 een VW
+Transporter (kenteken [kenteken]), althans een navigatiesysteem (Navigon) uit
+voornoemd voertuig (delictnummer 18);
+
+17. in of omstreeks de periode van 19 februari 2012 tot en met 23 juni 2014
+een aanhanwagen (merk Anssems; kenteken [kenteken]/[kenteken]) (delictnummer 19);
+
+18. in of omstreeks de periode van 09 februari 2014 tot en met 23 juni 2014
+een VW Golf (kenteken [kenteken]), althans een Blaupunkt VW radio/cdspeler uit
+voornoemd voertuig (delictnummer 19);
+
+19. in of omstreeks de periode van 25 april 2014 tot en met 23 juni 2014 een
+VW Golf (kenteken [kenteken]), althans airbags van/uit voornoemd voertuig
+(delictnummer 21);
+
+20. in of omstreeks de periode van 27 november 2013 tot en met 23 juni 2014
+een VW Polo (kenteken [kenteken]), althans een airbag uit voornoemd voertuig
+(delictnummer 22);
+
+21. in of omstreeks de periode van 12 januari 2014 tot en met 23 juni 2014
+een Kia Sportage (kenteken [kenteken]), althans een stoelenset uit voornoemd
+voertuig (delictnummer 23);
+
+22. in of omstreeks de periode van 03 maart 2014 tot en met 23 juni 2014 een
+VW Polo ([kenteken]), althans een stoelenset uit voornoemd voertuig
+(delictnummer 24);
+
+23. in of omstreeks de periode van 25 maart 2013 tot en met 23 juni 2014 een
+VW Polo (kenteken [kenteken]), althans een stoelenset uit voornoemd voertuig
+(delictnummer 25);
+
+24. in of omstreeks de periode van 01 maart 2014 tot en met 23 juni 2014 een
+Ford Focus (kenteken [kenteken]) (delictnummer 27);
+
+25. in of omstreeks de periode van 18 juni 2014 tot en met 23 juni 2014 een
+VW Golf [vinnr.] (delictnummer 30);
+
+3.
+hij in of omstreeks de periode van 21 november 2011 tot en met 23 juni 2014 te
+Uden, althans in Nederland, een laptop (merk HP) heeft verworven, voorhanden
+heeft gehad en/of heeft overgedragen, terwijl hij ten tijde van het verwerven
+of het voorhanden krijgen van deze laptop wist, althans redelijkerwijs had
+moeten vermoeden dat het (een) door misdrijf verkregen goed(eren) betrof
+
+(delictnummer 14);
+
+4.
+hij op of omstreeks 23 juni 2014 te Uden, althans in Nederland, een of meer
+wapens van categorie III, te weten een enkelloops grendel kogelgeweer (merk
+Loewe) en/of een machinegeweer (merk Shpagin PPsh 41) en/of een
+patroonmagazijn (HS), en/of munitie van categorie III, te weten meerdere
+kogelpatronen kaliber 7.65 mm en/of meerdere kogelpatronen kaliber 9x17 en/of
+9x19 mm en/of meerdere kogelpatronen kaliber 7x59 mm, voorhanden heeft gehad.
+
+Ten gevolge van een kennelijke schrijffout die in de tenlastelegging is begaan, staat onder feit 2:
+
+- sub 12 vermeldt: “de periode van 01 juni 2013” in plaats van: de periode van 01 juni 2014;
+
+- sub 13 vermeldt: “de periode van 03 juni 2013” in plaats van: de periode van 03 juni 2014;
+
+- sub 18 vermeldt: “(kenteken [kenteken])” in plaats van: (kenteken [kenteken]);
+
+- sub 23 vermeldt: “(kenteken [kenteken])” in plaats van: (kenteken [kenteken]).
+
+De rechtbank herstelt deze schrijffouten en leest telkens het laatste in plaats van het eerste.
+
+Voor zover voor het overige algemene schrijffouten in de tenlastelegging voorkomen, zijn deze door de rechtbank in de bewezenverklaring eveneens verbeterd.
+
+Blijkens het verhandelde ter terechtzitting is verdachte daardoor niet in de verdediging geschaad.
+
+De formele voorvragen.
+Bij het onderzoek ter terechtzitting is gebleken dat de dagvaarding geldig is. De rechtbank is bevoegd van het ten laste gelegde kennis te nemen en de officier van justitie kan in zijn vervolging worden ontvangen. Voorts zijn er geen gronden gebleken voor schorsing van de vervolging.
+
+Standpunt officier van justitie
+De officier van justitie acht niet bewezen hetgeen onder 1, primair, en onder 3 is ten laste gelegd. De onder 1, subsidiair, 2 en 4 ten laste gelegde feiten acht de officier van justitie bewezen.
+
+Standpunt van de verdediging
+De raadsman stelt dat onder 1 alleen schuldheling kan worden bewezen. Hij bepleit voorts vrijspraak van het onder 2 en 3 ten laste gelegde en eveneens van het onder 4 ten laste gelegde voor wat betreft de munitie wegens het ontbreken van opzet. Voor wat betreft de  onder 4 ten laste gelegde wapens bepleit de raadsman ontslag van alle rechtsvervolging omdat verdachte meende dat deze afdoende onklaar waren gemaakt.
+
+Vrijspraak feit 1 primair.
+De rechtbank acht niet wettig en overtuigend bewezen hetgeen aan verdachte onder 1 primair (diefstal van een auto) is ten laste gelegd, omdat de rechtbank  op grond van wettige bewijsmiddelen niet kan vaststellen dat verdachte betrokken is bij (het medeplegen) van de diefstal van de auto. Verdachte behoort daarvan te worden vrijgesproken.
+
+Vrijspraak feit 3.
+De rechtbank acht niet wettig en overtuigend bewezen hetgeen aan verdachte onder 3 (opzetheling dan wel schuldheling van een laptop) is ten laste gelegd, omdat de rechtbank niet op grond van wettige bewijsmiddelen kan vaststellen dat verdachte op het moment van het verwerven of voorhanden krijgen van de laptop wist of redelijkerwijs kon vermoeden dat de laptop van diefstal afkomstig was. Verdachte behoort daarvan te worden vrijgesproken.
+
+Bewijsoverweging feit 1 subsidiair en feit 2.
+
+Op 23 juni 2014 werden in een loods aan de [adres 2] in Volkel goederen aangetroffen die van diefstal afkomstig bleken te zijn. Die loods werd gehuurd door verdachte in deze zaak en werd gezamenlijk gebruikt door hem en de medeverdachte in deze zaak, [medeverdachte].   In de loods werd een omvangrijke hoeveelheid goederen aangetroffen, waaronder een speedboot, een aantal auto’s met en zonder kentekenplaten, vele onderdelen en inventaris van auto’s en een aanzienlijke hoeveelheid uiteenlopende (persoonlijke) voorwerpen. Op grond van de inhoud van het dossier kan worden vastgesteld dat een groot aantal van deze goederen is gestolen dan wel afkomstig is uit gestolen auto’s.
+
+De eigenaren van die gestolen auto’s gaven bij confrontatie met hun eigendommen telkens aan dat zij niet wisten hoe deze goederen in de loods terecht konden zijn gekomen, anders dan samen met de auto die bij hen was weggenomen.
+
+Een van de aangetroffen auto’s was de Volkswagen Golf van benadeelde [slachtoffer 1] (feit 1). Deze auto is zeer kort na de diefstal, nog op dezelfde dag, 23 juni 2014, aangetroffen in de loods, met op de voorstoel een speciale sleutel, bedoeld om autoportiersloten te openen zonder originele sleutel. Verdachte heeft verklaard dat die auto die middag door hem en medeverdachte op het terrein voor de loods werd aangetroffen met deels verwijderd dashboard en dat zij toen samen de auto in de loods hebben gestald. Deze auto was bij het aantreffen door de politie in de loods op 23 juni 2014 ook deels ontmanteld.
+
+Verdachte heeft verklaard dat hij en medeverdachte ieder hun eigen bedrijfsruimte in de loods gebruikten en niet verantwoordelijk zijn voor wat werd aangetroffen in het loodsdeel van de ander. Medeverdachte [medeverdachte] heeft zich tijdens het hele onderzoek beroepen op zijn zwijgrecht en op geen enkele wijze uitleg willen geven over de aanwezigheid van de Volkswagen Golf en de grote hoeveelheid gestolen goederen in de bedrijfsruimten.
+
+De loods is verdeeld in twee bedrijfsruimten met een verbindingsdeur ertussen.
+
+De rechtbank gaat er echter, anders dan verdachte, vanuit dat de loods in zijn geheel werd gebruikt door verdachte en medeverdachte samen. Dat leidt de rechtbank af uit het huurcontract vanaf 1 januari 2014, waarin de loods in zijn geheel werd gehuurd door  verdachte, de verklaringen van de verhuurster en de eigenares van de loods, die beiden verdachte en medeverdachte als gezamenlijke gebruikers van de loods noemen en voorts uit de verklaring van de verdachte, waaruit blijkt dat zij meestal samen in de loods aanwezig waren, ook vaak kwamen in het loodsdeel dat de ander gebruikte, gereedschappen en andere spullen van elkaar gebruikten en dat in het loodsdeel van de een ook goederen van de ander lagen. In het loodsdeel dat volgens verdachte door [medeverdachte] werd gebruikt, stond ook een brug waarover verdachte heeft verklaard dat hij die brug gebruikte om aan auto’s te werken.
+
+Ook in het feit dat zij op 23 juni 2014 de Volkswagen Golf, die op het buitenterrein voor de loods stond, samen in de loods hebben gezet en het feit dat zij die dag samen bij de loods arriveerden nadat alleen verdachte door de politie was gebeld over het aantreffen van de gestolen auto in de loods, ziet de rechtbank extra aanwijzingen voor de samenwerking tussen hen beiden.
+
+De rechtbank gaat er dan ook van uit dat verdachte en medeverdachte alle van diefstal afkomstige goederen die in de beide ruimten in de loods werden aangetroffen, samen voorhanden hadden.
+
+Verdachte heeft verklaard dat de in de loods aangetroffen goederen, zoals de auto’s en de boot en trailer, waren gestald door derden die een vergoeding betaalden voor de opslag en van wie hij behalve de voornamen [naam 1] en [naam 2] geen gegevens had. Dat de goederen van diefstal afkomstig waren, was hen niet bekend, aldus de verklaring van verdachte.
+
+De rechtbank leidt echter uit het dossier af dat verdachte en medeverdachte op het moment van het voorhanden krijgen van deze goederen, moeten hebben geweten dat deze goederen afkomstig waren van diefstal.
+
+Onder de aangetroffen goederen was een groot aantal persoonlijke bezittingen, zoals pasjes en een koffer op naam van de eigenaar, gebruikte kledingstukken en een brillenkoker. Deze goederen lagen volgens de aangevers in hun auto op het moment dat die werd gestolen. Nu het hier duidelijk zichtbaar gaat om persoonlijke bezittingen zonder marktwaarde, acht de rechtbank het hoogst onwaarschijnlijk dat verdachte en medeverdachte deze goederen afzonderlijk hebben gekocht of op andere wijze hebben verworven.
+
+In de loods waren tevens al dan niet gedeeltelijk gestripte auto’s en auto-onderdelen, gereedschappen en een brug aanwezig en uit de verklaring van verdachte blijkt dat in de loods ook werd gewerkt aan auto’s en auto-onderdelen.
+
+De gestolen auto’s waaruit de bij verdachten aangetroffen goederen afkomstig zijn, zijn niet in de loods aangetroffen.
+
+Echter, gelet op alle hiervoor geschetste omstandigheden en gelet op het feit dat verdachte en zijn medeverdachte geen (geloofwaardige)  verklaring hebben gegeven voor de aanwezigheid van die goederen in hun loods, kan het niet anders zijn dan dat verdachte en zijn medeverdachte ook de auto’s waarin zich die goederen bij de diefstal bevonden, voorhanden hebben gehad.
+
+De rechtbank gaat ervan uit dat verdachten, wetende dat het gestolen auto’s betrof, kort na de diefstallen die auto’s met de zich daarin bevindende goederen hebben verkregen en dat zij vervolgens de auto’s in de loods hebben gestald en/of aan die auto’s zijn gaan werken.
+
+Ten aanzien van de aangetroffen boot en trailer, die eveneens van diefstal afkomstig waren, geldt dat de verklaring van verdachte dat deze goederen waren gestald door derden waarbij verdachten niet wisten dat het gestolen goederen betrof, ook hier niet geloofwaardig is.
+
+De rechtbank acht dan ook telkens opzetheling van de in de bewezenverklaring genoemde goederen bewezen.
+
+Ten aanzien van de onder feit 2, nummer 6 genoemde crossfiets acht de rechtbank niet bewezen dat sprake is van heling, nu verdachte heeft verklaard dat hij deze fiets in zijn weiland heeft aangetroffen en meegenomen.
+
+Bewijsoverweging feit 4
+
+In de woning van verdachte zijn een enkelloops grendel kogelgeweer en een machinegeweer aangetroffen.  Blijkens wapentechnisch onderzoek door de politie betreft het vuurwapens in de zin van de Wet wapens en munitie (hierna: WWM) zoals hierna in de bewezenverklaring is vermeld.
+
+Uit het onderzoek blijkt dat het machinegeweer onbruikbaar was gemaakt en dat  kennelijk was getracht het enkelloops grendel kogelgeweer onklaar te maken. Dat klaar/onbruikbaar maken was echter bij beide vuurwapens niet gebeurd op de daarvoor in de WWM voorgeschreven wijze, zodat niet was voldaan aan de eisen die gelden voor het verkrijgen van een vrijstelling als bedoeld in artikel 18 van de WWM.
+
+Daarom was het bezit van die wapens strafbaar volgens de bepalingen van de WWM.
+
+De rechtbank zal wel in de strafmaat betreffende dit feit rekening houden met de omstandigheid dat verdachte in de veronderstelling was dat de wapens afdoende onklaar waren gemaakt.
+
+Voor wat betreft de munitie wordt overwogen dat gelet op de plaats van aantreffen - in 3 verpakkingen in de schuur in zijn tuin - ervan uit moet worden gegaan dat verdachte deze voorhanden had.
+
+De bewezenverklaring.
+De rechtbank acht, op grond van de feiten en omstandigheden die zijn vervat in de bewijsmiddelen, wettig en overtuigend bewezen, dat verdachte
+
+1.
+op 23 juni 2014 te Volkel, gemeente Uden, tezamen en in vereniging met een ander,
+een personenauto (Volkswagen Golf met kenteken [kenteken]) voorhanden heeft gehad
+
+terwijl hij en zijn mededader ten tijde van het voorhanden krijgen van deze personenauto wisten dat het een door misdrijf verkregen goed betrof;
+
+2.
+in de pleegperiode van 19 februari 2012 tot en met 23 juni 2014, in Nederland, tezamen en in vereniging met een ander een gewoonte heeft gemaakt van het plegen van opzetheling,
+immers hebben verdachte en zijn mededader op na te melden tijdstippen telkens na te melden goederen voorhanden gehad, terwijl hij en zijn mededader ten tijde van het  voorhanden krijgen van die goederen telkens wisten dat het door misdrijf verkregen goederen betrof:
+
+1. in de periode van 06 februari 2014 tot en met 23 juni 2014 een Renault Twingo
+
+(kenteken [kenteken]);
+
+2. in de periode van 07 januari 2014 tot en met 23 juni 2014 een Peugeot 508 SW
+
+(kenteken[kenteken]);
+
+3. in de periode van 15 augustus 2013 tot en met 23 juni 2014 een Audi Q5
+
+(kenteken [kenteken]);
+
+4. in de periode van 19 juni 2013 tot en met 23 juni 2014 een VW Transporter
+
+(kenteken [kenteken]);
+
+5. in of omstreeks de periode van 01 juni 2013 tot en met 23 juni 2014 een VW Transporter (kenteken [kenteken]);
+
+7. in de periode van 10 augustus 2013 tot en met 23 juni 2014 een Skoda Octavia
+
+(kenteken [kenteken]);
+
+8. in de periode van 15 april 2013 tot en met 23 juni 2014 een VW Passat
+
+(kenteken [kenteken]);
+
+9. in de periode van 15 december 2013 tot en met 23 juni 2014 een VW Transporter (kenteken [kenteken]);
+
+10. in de periode van 09 februari 2014 tot en met 23 juni 2014 een VW Touran
+
+(kenteken [kenteken]);
+
+11. in de periode van 01 juni 2013 tot en met 23 juni 2014 een VW Transporter
+
+(kenteken [kenteken]);
+
+12. in of omstreeks de periode van 01 juni 2014 tot en met 23 juni 2014 eenVW Transporter (kenteken [kenteken]);
+
+13. in de periode van 03 juni 2014 tot en met 23 juni 2014 een boot, merk Bayliner (registratienummer [kenteken]) en een trailer (kenteken [kenteken]);
+
+14. in de periode van 21 juni 2014 tot en met 23 juni 2014 een Mercedes Benz
+
+(kenteken [kenteken]);
+
+15. in de periode van 24 mei 2014 tot en met 23 juni 2014 een Mercedes Benz
+
+(kenteken [kenteken]);
+
+16. in de periode van 31 mei 2014 tot en met 23 juni 2014 een VW Transporter
+
+(kenteken [kenteken];
+
+17. in de periode van 19 februari 2012 tot en met 23 juni 2014 een aanhangwagen
+
+(merk Anssems; kenteken [kenteken]/[kenteken]);
+
+18. in de periode van 09 februari 2014 tot en met 23 juni 2014 een VW Golf
+
+(kenteken [kenteken]);
+
+19. in de periode van 25 april 2014 tot en met 23 juni 2014 een VW Golf
+
+(kenteken [kenteken]);
+
+20. in de periode van 27 november 2013 tot en met 23 juni 2014 een VW Polo
+
+(kenteken [kenteken]);
+
+21. in de periode van 12 januari 2014 tot en met 23 juni 2014 een Kia Sportage
+
+(kenteken [kenteken]);
+
+22. in de periode van 03 maart 2014 tot en met 23 juni 2014 een VW Polo ([kenteken]);
+
+23. in de periode van 25 maart 2013 tot en met 23 juni 2014 een VW Polo
+
+(kenteken [kenteken]);
+
+24. in de periode van 01 maart 2014 tot en met 23 juni 2014 een Ford Focus
+
+(kenteken [kenteken]);
+
+25. in de periode van 18 juni 2014 tot en met 23 juni 2014 een VW Golf
+
+([vinnr.]);
+
+4.
+op 23 juni 2014 te Uden, wapens van categorie III, te weten een enkelloops grendel kogelgeweer (merk Loewe) en een machinegeweer (merk Shpagin PPsh 41) en een
+patroonmagazijn (HS), en munitie van categorie III, te weten meerdere kogelpatronen kaliber 7.65 mm en meerdere kogelpatronen kaliber 9x17 en 9x19 mm en meerdere kogelpatronen kaliber 7x59 mm, voorhanden heeft gehad.
+
+De bewijsmiddelen worden slechts gebezigd met betrekking tot het feit waarop zij in het bijzonder betrekking hebben.
+
+Hetgeen meer of anders is ten laste gelegd dan hierboven bewezen is verklaard, is naar het oordeel van de rechtbank niet bewezen. Verdachte zal hiervan worden vrijgesproken.
+
+De strafbaarheid van het feit.
+Het bewezen verklaarde levert op de in de uitspraak vermelde strafbare feiten.
+
+Er zijn geen feiten of omstandigheden gebleken die de strafbaarheid van de feiten uitsluiten.
+
+De strafbaarheid van verdachte.
+Er zijn geen feiten of omstandigheden gebleken die de strafbaarheid van verdachte uitsluiten. Verdachte is daarom strafbaar voor hetgeen bewezen is verklaard.
+
+Oplegging van straf en/of maatregel.
+
+De eis van de officier van justitie.
+
+De officier van justitie concludeert tot vrijspraak van het onder 1 primair en het onder 3 tenlastegelegde en tot bewezenverklaring van het onder 1 subsidiair, 2 en 4 tenlastegelegde.
+
+Hij vordert een gevangenisstraf voor de duur van 24 (vierentwintig) maanden, met aftrek van voorarrest. Hij vordert ook verbeurdverklaring van de inbeslaggenomen niet teruggegeven voorwerpen, vermeld op de overgelegde lijst van inbeslaggenomen voorwerpen d.d. 9 februari 2015 onder nummers 2 tot en met 11, 13 tot en met 20, 22, 23, 24, 26 tot en met 32, 38 en 69. De voorwerpen onder nummers 1, 12, 21, 33, 34 en 35 dienen te worden teruggeven aan degene onder wie de voorwerpen zijn in beslaggenomen en de voorwerpen onder nummers 65 tot en met 68 dienen te worden teruggegeven aan degenen die redelijkerwijs als rechthebbenden kunnen worden aangemerkt.
+
+De officier van justitie vordert de benadeelde partij [slachtoffer 1] niet ontvankelijk te verklaren  in diens vordering, omdat verdachte dient te worden vrijgesproken van diefstal.
+
+De officier van justitie maakt kenbaar voornemens te zijn een vordering als bedoeld in artikel 36e van het Wetboek van Strafrecht aanhangig te maken.
+
+Het oordeel van de rechtbank.
+Bij de beslissing over de straf die aan verdachte dient te worden opgelegd, heeft de rechtbank gelet op de aard en de ernst van het bewezen verklaarde en de omstandigheden waaronder dit is begaan. Bij de beoordeling van de ernst van de door verdachte gepleegde strafbare feiten betrekt de rechtbank het wettelijke strafmaximum en de straffen die voor soortgelijke feiten worden opgelegd. Daarnaast houdt de rechtbank bij de strafbepaling rekening met de persoon en de persoonlijke omstandigheden van verdachte.
+
+De rechtbank heeft in het bijzonder het volgende in aanmerking genomen.
+
+Verdachte heeft zich schuldig gemaakt aan opzetheling en gewoonteheling en wapenbezit. In de bedrijfsruimten van verdachte en medeverdachte is een omvangrijke hoeveelheid goederen aangetroffen, waaronder auto’s en andere goederen, waarvan kan worden vastgesteld dat deze goederen gestolen zijn.
+
+Het gaat om opzetheling van een groot aantal goederen van aanzienlijke waarde, zoals auto’s en een boot, gedurende een periode van bijna 2,5 jaar. Heling bevordert diefstal van die goederen en zorgt bovendien voor een illegaal handelscircuit van goedkope goederen, waardoor de reguliere, eerlijke handel wordt verstoord en maatschappelijke schade wordt toegebracht.
+
+De door verdachte en zijn mededader in vereniging gepleegde strafbare feiten hebben grote materiële schade veroorzaakt.
+
+Verdachte heeft bij het plegen van de feiten gehandeld uit puur winstbejag en heeft zich niets aangetrokken van de belangen van de benadeelden.
+
+In de woning van verdachte zijn vuurwapens (een kogelgeweer en een machinegeweer), een patroonhouder en een grote hoeveelheid patronen aangetroffen, waarvan verdachte heeft verklaard dat hij de wapens en munitie voor zichzelf heeft aangeschaft en heeft bewaard in zijn woning. Een doosje munitie heeft hij zonder opzet in de auto  laten liggen.
+
+De vuurwapens blijken na technisch forensisch onderzoek niet geschikt om mee te vuren.
+
+Dit laat onverlet dat het ongecontroleerde bezit van dergelijke wapens en de munitie strafbaar is gesteld en ook dat moet worden opgetreden tegen het onbevoegd voorhanden hebben van vuurwapens. Daarbij speelt ook mee dat het wapens betreft die wel geschikt zijn om mee te dreigen en dat gebeurt ook veelvuldig bij het plegen van zware misdrijven.
+
+De rechtbank zal er echter bij de bepaling van de straf in strafmatigende zin rekening mee houden dat de wapens onklaar gemaakt waren, hoewel daarmee niet is voldaan aan de daarvoor geldende voorschriften.
+
+Bij haar beslissing haar beslissing over de strafsoort en de hoogte van de straf heeft de rechtbank voor wat betreft deze feiten aansluiting gezocht bij de binnen de zittende magistratuur ontwikkelde oriëntatiepunten. De oriëntatiepunten dienen als vertrekpunt bij het bepalen van de straf.
+
+De rechtbank weegt in strafverhogende zin mee dat verdachte eerder is veroordeeld voor vermogensdelicten, onder andere in 2010 en 2013 voor autodiefstal en heling.
+
+De rechtbank is van oordeel dat in verband met een juiste normhandhaving niet kan worden volstaan met het opleggen van een andersoortige of geringere straf dan een gevangenisstraf voor de duur van 21 (eenentwintig) maanden.
+
+De rechtbank acht uit een oogpunt van vergelding en ter beveiliging van de maatschappij een vrijheidsbeneming van lange duur op zijn plaats.
+
+De rechtbank zal een lichtere straf opleggen dan de door de officier van justitie gevorderde straf, nu de rechtbank van oordeel is dat de straf die de rechtbank zal opleggen de ernst van het bewezen verklaarde voldoende tot uitdrukking brengt.
+
+De vordering van de benadeelde partij [slachtoffer 1]. De rechtbank zal de benadeelde partij niet-ontvankelijk verklaren in de vordering, aangezien de verdachte wordt vrijgesproken van de tenlastegelegde diefstal waarop de vordering van de benadeelde partij betrekking heeft en niet blijkt van een  causaal verband tussen het handelen van verdachte en de schade. De rechtbank zal de benadeelde partij veroordelen in de kosten van de verdachte als bedoeld in artikel 592a van het Wetboek van Strafvordering. Deze kosten worden begroot op nihil.
+
+Beslag.
+De rechtbank zal de teruggave gelasten van de in het dictum nader te noemen inbeslaggenomen voorwerpen aan diegene die redelijkerwijs als rechthebbende kan worden aangemerkt, nu naar het oordeel van de rechtbank ten aanzien van deze inbeslaggenomen voorwerpen niet is aangetoond dat deze vatbaar zijn voor verbeurdverklaring en het belang van strafvordering zich niet meer verzet tegen de teruggave van de inbeslaggenomen goederen.
+
+Toepasselijke wetsartikelen.
+
+De beslissing is gegrond op de artikelen:
+
+Wetboek van Strafrecht art. 10, 27, 47, 57, 416, 417.
+
+Wet wapens en munitie art. 2, 26, 55.
+
+DE UITSPRAAK
+
+Verklaart niet bewezen hetgeen verdachte onder 1 primair en onder 3 is ten laste gelegd en spreekt hem daarvan vrij.
+
+Verklaart het onder 1 subsidiair, het onder 2 en het onder 4 ten laste gelegde bewezen zoals hiervoor is omschreven.
+
+Verklaart niet bewezen hetgeen verdachte meer of anders is ten laste gelegd dan hiervoor bewezen is verklaard en spreekt hem daarvan vrij.
+
+Het bewezen verklaarde levert op de misdrijven:
+
+T.a.v. feit 1 subsidiair:
+medeplegen van opzetheling.
+
+T.a.v. feit 2:
+medeplegen van: een gewoonte maken van opzetheling.
+
+T.a.v. feit 4:
+handelen in strijd met artikel 26, eerste lid van de Wet wapens en munitie, begaan met betrekking tot een vuurwapen van categorie III, meermalen gepleegd,
+en:
+handelen in strijd met artikel 26, eerste lid van de Wet wapens en munitie.
+
+Verklaart verdachte hiervoor strafbaar.
+
+Legt op de volgende straf:
+
+een gevangenisstraf voor de duur van 21 maanden met aftrek overeenkomstig artikel 27 van het Wetboek van Strafrecht.
+
+Beslissing met betrekking tot de voorlopige hechtenis.
+
+Opheffing van het op 19 januari 2015 tegen verdachte verleende bevel tot schorsing van de voorlopige hechtenis met ingang van heden.
+
+Beslissing op de vordering van de benadeelde partij [slachtoffer 1] (feit 1 subsidiair).
+Verklaart de benadeelde partij niet-ontvankelijk in de vordering.
+
+Veroordeelt de benadeelde partij in de kosten van de verdachte tot op heden
+begroot op nihil.
+
+Beslissing met betrekking tot de inbeslaggenomen voorwerpen.Gelast de teruggave van de inbeslaggenomen goederen aan degene die redelijkerwijs alsrechthebbende kan worden aangemerkt, voor wat betreft de voorwerpen, genoemd opde aan dit vonnis gehechte lijst van inbeslaggenomen voorwerpen d.d. 9 februari2015, onder nummers 1 tot en met 24, 26 tot en met 35, 38 en 65 tot en met 69.
+
+Dit vonnis is gewezen door:
+
+mr. M. Lammers, voorzitter,
+
+mr. H.A. van Gameren en mr. J.M.J. Denie, leden,
+
+in tegenwoordigheid van J.F.A. Verhagen, griffier,
+
+en is uitgesproken op 23 maart 2015.
+
+Mr. J.M.J. Denie is buiten staat dit vonnis mede te ondertekenen.
