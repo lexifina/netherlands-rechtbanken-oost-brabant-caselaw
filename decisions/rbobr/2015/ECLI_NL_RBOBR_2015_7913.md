@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2015:7913"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0087", "PR-Updates.nl PR-2020-0029", "PJ 2020/41"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0087", "PR-Updates.nl PR-2020-0029", "PJ 2020/41", "VAAN-AR-Updates.nl 2020-0087", "PR-Updates.nl 2020-0029"]
 ---
 
 # ECLI:NL:RBOBR:2015:7913 Rechtbank Oost-Brabant , 10-12-2015 / 3367222 / 14-10121
