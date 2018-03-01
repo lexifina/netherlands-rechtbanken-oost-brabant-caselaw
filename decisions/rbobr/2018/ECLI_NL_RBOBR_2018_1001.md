@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2018:1001"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-0278", "PR-Updates.nl PR-2018-0037"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-0278", "PR-Updates.nl PR-2018-0037", "VAAN-AR-Updates.nl 2018-0278", "PR-Updates.nl 2018-0037"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2020:83"]]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-305a.md", "netherlands/national/acts/bw-boek-7/art-611.md"]
 ---
