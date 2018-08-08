@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2018:3995"
-published_in: ["Rechtspraak.nl", "NJF 2018/558", "PJ 2018/156", "PR-Updates.nl PR-2018-0099"]
+published_in: ["Rechtspraak.nl", "NJF 2018/558", "PJ 2018/156", "PR-Updates.nl PR-2018-0099", "PR-Updates.nl 2018-0099"]
 ---
 
 # ECLI:NL:RBOBR:2018:3995 Rechtbank Oost-Brabant , 08-08-2018 / C/01/334242 / HA ZA 18-336
