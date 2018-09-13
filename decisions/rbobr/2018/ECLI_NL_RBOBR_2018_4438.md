@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Op tegenspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2018:4438"
-published_in: ["Rechtspraak.nl", "PJ 2018/173 met annotatie van T. Huijg", "AR-Updates.nl 2018-1052", "PR-Updates.nl PR-2018-0124"]
+published_in: ["Rechtspraak.nl", "PJ 2018/173 met annotatie van T. Huijg", "AR-Updates.nl 2018-1052", "PR-Updates.nl PR-2018-0124", "VAAN-AR-Updates.nl 2018-1052", "PR-Updates.nl 2018-0124"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2021:2183"]]
 ---
 
@@ -173,7 +173,7 @@ Eiser sub 3, hierna aangeduid als “ [eiser 3] ”, is op 20 augustus 1962 in d
 
 2.12.
 
-Eiser sub 4, hierna aangeduid als “ [eiser 4] ”, heeft vanaf 1 augustus 1988 bij Befu B.V. (Betonmortelfabriek Utrecht) gewerkt, een joint venture van Mebin en KWS B.V.  heeft vanaf 1 maart 2005 voor Mebin gewerkt als districtsadministrateur, waarbij hij op de loonlijst van Befu B.V. is blijven staan. Per 1 januari 2008 is [eiser 4] formeel in loondienst getreden van Mebin. Met betrekking tot zijn pensioen is per brief van 14 januari 2008 het volgende aan [eiser 4] medegedeeld:
+Eiser sub 4, hierna aangeduid als “ [eiser 4] ”, heeft vanaf 1 augustus 1988 bij Befu B.V. (Betonmortelfabriek Utrecht) gewerkt, een joint venture van Mebin en KWS B.V. [eiser 4] heeft vanaf 1 maart 2005 voor Mebin gewerkt als districtsadministrateur, waarbij hij op de loonlijst van Befu B.V. is blijven staan. Per 1 januari 2008 is [eiser 4] formeel in loondienst getreden van Mebin. Met betrekking tot zijn pensioen is per brief van 14 januari 2008 het volgende aan [eiser 4] medegedeeld:
 
 “ (…)
 
