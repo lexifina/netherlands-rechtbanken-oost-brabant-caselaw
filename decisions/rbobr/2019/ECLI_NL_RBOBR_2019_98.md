@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Op tegenspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2019:98"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0080", "PR-Updates.nl PR-2019-0012"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0080", "PR-Updates.nl PR-2019-0012", "VAAN-AR-Updates.nl 2019-0080", "PR-Updates.nl 2019-0012"]
 ---
 
 # ECLI:NL:RBOBR:2019:98 Rechtbank Oost-Brabant , 17-01-2019 / 7048700 CV EXPL 18-4237
