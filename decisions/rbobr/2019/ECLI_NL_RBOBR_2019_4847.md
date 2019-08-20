@@ -1,0 +1,225 @@
+---
+ecli: "ECLI:NL:RBOBR:2019:4847"
+court: "Rechtbank Oost-Brabant"
+court_code: "RBOBR"
+docket: "SHE 19/756"
+decided: "2019-08-20"
+published: "2019-08-20"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Bestuursrecht; Socialezekerheidsrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2019:4847"
+published_in: ["Rechtspraak.nl", "JWWB 2019/263"]
+---
+
+# ECLI:NL:RBOBR:2019:4847 Rechtbank Oost-Brabant , 20-08-2019 / SHE 19/756
+
+## Inhoudsindicatie
+
+Wmo huishoudelijke hulp, wijziging beleid, KPMG-rapport, indicatie van individuele activiteiten in plaats van in clusters van activiteiten, incidentele activiteiten, indirecte tijd, proceskosten in bezwaar
+
+De gemeente Eindhoven stelde in 2018 nieuw beleid vast voor huishoudelijke hulp op grond van de Wmo. Het beleid is gebaseerd op een KPMG-rapport van 2017. Tegen de nieuwe indicatiebesluiten op grond van dat gewijzigde beleid stelden zo’n 160 burgers bezwaar en beroep in. De rechtbank heeft in 4 typerende zaken uitspraak gedaan.
+
+De gemeente mag haar beleid weliswaar baseren op het KPMG-rapport, maar alleen als het gaat om clusters van huishoudelijke hulp. Dit zijn bijvoorbeeld alle klussen die nodig zijn voor een ‘schoon en leefbaar huis’ en voor ‘schone kleding en bedden- en linnengoed’. De gemeente koos echter voor het toekennen van hulp op het niveau van individuele activiteiten. Het KPMG-rapport geeft daarvoor niet genoeg onderbouwing. In het rapport staat namelijk dat onvoldoende onderzoeksgegevens beschikbaar zijn om betrouwbare informatie over de noodzakelijke tijdsbesteding van de individuele activiteiten te krijgen.
+
+Verder wijkt de gemeente in haar beleid van het rapport af door incidentele huishoudelijke hulp stelselmatig niet toe te kennen. De gemeente vindt dat die hulp door iemand uit het sociale netwerk of een vrijwilliger gedaan kan worden. Dat er daadwerkelijk vrijwilligers beschikbaar zijn heeft de gemeente echter niet aangetoond. Als ook niemand uit het sociale netwerk incidentele hulp kan bieden moet de gemeente ook voor deze taken ondersteuning toekennen.
+
+Ook moet de gemeente bij meer zorgmomenten per week meer indirecte tijd toekennen.
+
+Tenslotte heeft de gemeente de proceskostenvergoeding in bezwaar te laag vastgesteld. Gezien de werkzaamheden van de gemachtigden, zoals blijkend uit de procesdossiers, heeft de gemeente die werkzaamheden ten onrechte als ‘zeer licht’ aangemerkt.
+
+## Uitspraak
+
+RECHTBANK OOST-BRABANT
+
+Zittingsplaats 's-Hertogenbosch
+
+Bestuursrecht
+
+zaaknummer: SHE 19/756
+
+uitspraak van de meervoudige kamer van 20 augustus 2019 in de zaak tussen
+
+[naam] , te [woonplaats] , eiseres
+
+(gemachtigde: mr. K. Wevers),
+
+en
+
+het college van burgemeester en wethouders van de gemeente Eindhoven, verweerder
+
+(gemachtigden: mr. drs. J.J. Rijken en mr. M.F. van der Wel).
+
+Procesverloop
+
+Bij besluit van 16 maart 2018 (het primaire besluit) heeft verweerder aan eiseres huishoudelijke ondersteuning toegekend voor de periode 1-2018 tot en met 31 december 2037.
+
+Op 17 april 2018 heeft eiseres bezwaar gemaakt tegen het primaire besluit.
+
+Op 14 september 2018 heeft eiseres verweerder in gebreke gesteld voor het niet tijdig beslissen op het bezwaar. Op 5 maart 2019 heeft eiseres beroep ingesteld wegens het niet tijdig beslissen op het bezwaar.
+
+Bij besluit van 7 maart 2019 heeft verweerder alsnog beslist op het bewaar. Bij dat besluit heeft verweerder het bezwaar gedeeltelijk gegrond en gedeeltelijk niet-ontvankelijk verklaard. De hoogte van de door verweerder aan eiseres verbeurde dwangsom wegens het niet tijdig beslissen op het bezwaar, is vastgesteld op het maximumbedrag, namelijk € 1.260,00.
+
+Op 15 april 2019 heeft eiseres de gronden van beroep aangevuld. Verweerder heeft een verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 18 juni 2019. Eiseres is verschenen, bijgestaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden.
+
+Overwegingen
+
+1. De rechtbank gaat uit van de volgende feiten. Eiseres ontving op grond van het indicatiebesluit van 27 oktober 2017 hulp bij het huishouden voor 330 minuten per week voor de periode tot en met 31 december 2017. De huishoudelijke hulp wordt verleend door zorgaanbieder Stichting Thuiszorg De Sleutel.
+
+2. Verweerder heeft op 26 juni 2018 het Protocol indicatiestelling huishoudelijke ondersteuning vastgesteld (het Protocol). Het Protocol is als Bijlage 1 opgenomen bij de Nadere Regeling Sociaal Domein gemeente Eindhoven. Publicatie heeft plaatsgevonden in het Gemeenteblad 2018, nr. 153770 van 17 juli 2018.
+
+Op grond van het Protocol kent verweerder een maatwerkvoorziening voor huishoudelijke ondersteuning toe in de vorm van Huishoudelijke Ondersteuning (HO) of Huishoudelijke Ondersteuning Extra (HOX1 of HOX2).
+
+De te bereiken resultaten, de hiervoor te verrichten activiteiten, de frequentie van die activiteiten en de richttijden voor het uitvoeren van de activiteiten zijn gebaseerd op een objectief en onafhankelijk door KPMG vastgesteld rapport “Passend beleid Hulp bij het Huishouden gemeente Eindhoven van 27 februari 2017 (het KPMG-rapport).
+
+3. Bij het primaire besluit is aan eiseres huishoudelijke ondersteuning toegekend voor de periode 1-2018 tot en met 31 december 2037. Bij dit besluit is een ondersteuningsplan gevoegd. In dit ondersteuningsplan zijn de afspraken vastgelegd die eiseres heeft gemaakt met de zorgaanbieder over welke huishoudelijke taken de thuishulpaanbieder doet en hoe vaak. Naar aanleiding van het door eiseres ingediende bezwaar heeft op 4 december 2018 een keukentafelgesprek plaatsgevonden. Op basis van hetgeen is besproken tijdens het keukentafelgesprek heeft verweerders indicatieadviseur vastgesteld dat het ondersteuningsplan aangepast dient te worden voor wat betreft de frequentie. Wat betreft huishoudelijke taken voldoet het wel, maar de huishoudelijke ondersteuning voert niet alle taken uit zoals afgesproken in het ondersteuningsplan. De indicatieadviseur heeft eiseres geadviseerd contact op te nemen met de zorgaanbieder om de activiteiten en frequentie in het ondersteuningsplan te actualiseren voor wat betreft keuken schoonmaken, afstoffen en het zemen van de ramen. Verder is eiseres geadviseerd contact op te nemen met de generalist van WIJEindhoven om te kijken naar de mogelijkheden, bijvoorbeeld het inzetten van een vrijwilliger, om samen met eiseres de incidentele taken uit te voeren. Op 29 januari 2019 is er een nieuw ondersteuningsplan opgesteld.
+
+Het beroep niet tijdig beslissen
+
+4. De rechtbank stelt vast en tussen partijen is niet in geschil dat verweerder niet tijdig heeft beslist op het bezwaar. Niet in geschil is voorts dat de brief van 14 september 2018 als ingebrekestelling kan worden aangemerkt en dat sindsdien twee weken zijn verstreken, zonder dat verweerder in die periode heeft beslist op het bezwaar. Omdat verweerder na indiening van het beroep echter alsnog heeft beslist op het bezwaar en daarbij ook de door hem verbeurde dwangsom heeft vastgesteld op het maximale bedrag, heeft eiseres geen belang meer bij een beoordeling van haar beroep tegen het niet tijdig nemen van een besluit. Het beroep gericht tegen het niet tijdig nemen van een besluit is daarom niet-ontvankelijk. De rechtbank ziet in de omstandigheid dat verweerder niet tijdig heeft beslist wel aanleiding om verweerder in het navolgende te veroordelen in de proceskosten die eiseres in verband hiermee heeft moeten maken.
+
+5. Nu met het besluit van 7 maart 2019 niet geheel is tegemoet gekomen aan het beroep van eiseres tegen het niet tijdig beslissen heeft dit beroep van eiseres, gelet op het bepaalde in artikel 6:20, derde lid, van de Awb, mede betrekking op het besluit van 7 maart 2019. Dit besluit wordt hierna aangemerkt als het bestreden besluit.
+
+Het bestreden besluit
+
+6. Bij het bestreden besluit heeft verweerder het bezwaar van eiseres gedeeltelijk gegrond verklaard onder aanvulling van de motivering en gedeeltelijk niet-ontvankelijk verklaard. Eiseres wordt in aanmerking gebracht voor 5 uur en 51 minuten per week huishoudelijke ondersteuning. Ter onderbouwing van de tijdsindicatie verwijst verweerder naar de bijlage urenberekening. De urenberekening is gebaseerd op de taken en frequenties als genoemd in het aangepaste ondersteuningsplan van 29 januari 2019, het gestelde in het besluit op bezwaar en de gemiddelde benodigde tijd op basis van het KPMG-rapport. Verweerder heeft het bezwaar niet-ontvankelijk verklaard voor wat betreft de bezwaargrond van eiseres dat het huishoudelijk ondersteuningsplan door de zorgaanbieder niet (volledig) wordt uitgevoerd. Het uitvoeren van het plan door de zorgaanbieder is volgens verweerder een uitvoeringshandeling waartegen geen bezwaar gemaakt kan worden. Voor het bepalen van de hoogte van de proceskosten heeft verweerder aangenomen dat er sprake is van bijzondere omstandigheden. Vanwege het grote aantal soortgelijke zaken heeft verweerder de wegingsfactor 0,25 (zeer licht) toegepast. De proceskostenvergoeding in bezwaar is daarmee vastgesteld op € 256,00.
+
+7. Eiseres kan zich niet verenigen met het bestreden besluit. Op hetgeen zij heeft aangevoerd zal hierna – voor zover van belang – worden ingegaan. Nieuwe gronden ter zitting
+
+8. Ter zitting heeft eiseres betoogd dat er ruimtes in haar woning zijn die niet worden schoongemaakt, terwijl ze wel door eiseres gebruikt worden. Eiseres doelt daarbij op de werkkamer op de begane grond en de eerste verdieping. Daarnaast ervaart eiseres een probleem bij de praktische uitvoering van de toegekende tijd, omdat de ondersteuning twee keer per week komt terwijl die op drie momenten nodig is. Voorts houdt verweerder er ten onrechte geen rekening mee dat strijkvrije kleding niet tegen wassen op hoge temperatuur kan terwijl dat in het huishouden van eiseres wel nodig is. Eiseres stelt weliswaar dat het moeten schoonmaken van meer kamers te scharen valt onder de beroepsgrond dat onvoldoende onderzoek is gedaan, maar dat is de rechtbank niet met eiseres eens. De rechtbank is met verweerder van oordeel dat deze gronden pas ter zitting naar voren zijn gebracht. Deze gronden zal de rechtbank wegens strijd met de goede procesorde niet bij de beoordeling betrekken. Verweerder heeft zich hierop, evenals de rechtbank, immers niet kunnen voorbereiden.
+
+Wettelijke grondslag
+
+9. Eiseres is van mening dat het besluit op bezwaar van 7 maart 2019 niet berust op een wettelijke grondslag. Eiseres heeft er tijdens de hoorzitting in bezwaar op gewezen dat de werkwijze op basis van tijd met de KPMG-tijden niet in beleid is vastgelegd. Volgens eiseres heeft verweerder hiermee gehandeld in strijd met het legaliteitsbeginsel. Eiseres stelt dat aansluiting had moeten worden gezocht bij het CIZ-protocol, in ieder geval totdat nieuw beleid was ontwikkeld.
+
+10. De rechtbank volgt dit betoog niet. Verweerder heeft de indicatie van eiseres voor huishoudelijke ondersteuning gebaseerd op het Protocol. Blijkens artikel II van het Protocol zijn de richttijden voor het uitvoeren van de activiteiten gebaseerd op het KPMG-rapport.
+
+Het KPMG-rapport
+
+11. Tussen partijen is niet in geschil dat huishoudelijke ondersteuning noodzakelijk is voor eiseres. In geschil is wel of verweerder gebruik heeft kunnen maken van het KPMG-rapport om de noodzakelijke uren huishoudelijke ondersteuning vast te stellen. Eiseres stelt dat nooit met haar is besproken of de basismodule van twee uur per week uit het KPMG-rapport passend is voor haar. Ook de urenomvang zoals die nu is bepaald is niet in samenspraak met eiseres tot stand gekomen. Eiseres stelt dat de beïnvloedingsfactoren waarover de Centrale Raad van Beroep (CRvB) spreekt in de uitspraken van 10 december 2018 (ECLI:NL:CRVB:2018:3838 en ECLI:NL:CRVB:2018:3835) geen enkele invloed hebben gehad op verweerders besluitvorming en ook niet zijn meegenomen in de urenindicatie. Eiseres stelt verder dat verweerder met het structureel uitsluiten van de incidentele taken en het niet opnemen van tijd voor de afwas en het opruimen, op ontoelaatbare wijze is afgeweken van het KPMG- en HHM-rapport, waardoor de beleidskeuze niet langer verdedigd kan worden. Het is voor eiseres onduidelijk op welke wijze verweerder heeft geprobeerd om aan de hand van het KPMG- en HHM-rapport uit Utrecht en de Eindhovense variant van het KPMG-rapport, de urenomvang te onderbouwen. Eiseres stelt dat het nooit de intentie van KPMG en HHM is geweest om een urennorm te bedenken. Het rapport en de gemeten tijden uit Utrecht, die één op één door verweerder zijn overgenomen, zien op een basismodule. Dat is volgens eiseres iets anders dan wat verweerder heeft gedaan in het bestreden besluit, waarin per taak en frequentie een tijdsnormering is toegepast. Eiseres wijst in dit verband op de urenberekening die als bijlage bij het bestreden besluit is gevoegd. Op die urenberekening wordt een aantal activiteiten genoemd, met het benodigd aantal minuten per activiteit en de frequentie per week. Aangezien het KPMG-rapport ziet op modules en verweerder werkt in tijd zonder modules, had verweerder geen aansluiting kunnen zoeken bij de losse tijdmetingen en –normeringen voor de afzonderlijke taken in het KPMG-rapport. Eiseres concludeert dat belangrijke uitgangspunten van het KPMG-rapport zijn losgelaten, waardoor de geïndiceerde tijden niet langer steun vinden in het onderzoek en het bestreden besluit onterecht is genomen.
+
+12. De rechtbank overweegt hierover als volgt.
+
+13. De CRvB heeft in de door eiseres aangehaalde uitspraken geoordeeld dat KPMG is aan te merken als onafhankelijke partij zonder belang bij de uitkomst van het onderzoek. Het KPMG-onderzoek naar de normering van de basisvoorziening Huishoudelijke Hulp van de gemeente Utrecht kan naar het oordeel van de CRvB worden aangemerkt als een onderzoek als bedoeld in de uitspraken van 18 mei 2016 (ECLI:NL:CRVB:2016:1402 en 1403). Door de gekozen onderzoeksmethodiek is immers voor de basisvoorziening ‘Schoon Huis’ een urennorm ontwikkeld voor een door de expertgroep afgebakend niveau van basishygiëne. Hierbij is door expertinbreng, metingen van de tijdsbesteding per schoonmaakactiviteit en interviews met cliënten over de schoonmaakwerkzaamheden geobjectiveerd onderzoek verricht naar welke concrete activiteiten voor het bereiken van basishygiëne verricht moeten worden, hoeveel tijd daarvoor nodig is en met welke frequentie deze activiteiten verricht moeten worden. Deze urennorm moet worden aangemerkt als een norm die betrekking heeft op een standaardmodule als bedoeld in de uitspraken van 18 mei 2016. Een standaardmodule als deze moet worden aangemerkt als maatwerkvoorziening in de zin van artikel 1.1.1 van de Wmo 2015. Omdat de maatwerkvoorziening moet zijn afgestemd op de behoeften, persoonskenmerken en mogelijkheden van de cliënt is steeds vereist dat het college een onderzoek doet naar alle van belang zijnde individuele feiten en omstandigheden. Indien dit onderzoek uitwijst dat toepassing van de urennorm, vanwege beïnvloedingsfactor(en) en/of het ontbreken van eigen kracht in een individuele situatie niet leidt tot een passende bijdrage in de zelfredzaamheid en participatie, zal het college van de urennorm moeten afwijken. Bovendien moet het college meer uren verstrekken indien het onderzoek uitwijst dat zich bijzondere omstandigheden voordoen waarmee in de urennorm geen of onvoldoende rekening is gehouden, zoals een medische noodzaak om een hoger niveau van hygiëne of schoonhouden te realiseren.
+
+14. In de uitspraak van deze rechtbank van 23 november 2018 over het KPMG-rapport van de gemeente Eindhoven (ECLI:NL:RBOBR:2018:5761) heeft de meervoudige kamer geoordeeld dat de normtijden uit dit KPMG-rapport zijn te beschouwen als richtlijnen die in beginsel afdoende zijn maar waarvan behoort te worden afgeweken als blijkt dat dat nodig is. Gelet op deze uitspraken neemt de rechtbank tot uitgangspunt dat de standaardmodule uit het KPMG-rapport van de gemeente Eindhoven kan worden beschouwd als een maatwerkvoorziening in de zin van artikel 1.1.1 van de Wmo 2015.
+
+15. Voor zover eiseres heeft betoogd dat het KPMG-rapport van de gemeente Eindhoven niet kan worden aangemerkt als onderzoek als bedoeld in de uitspraken van de CRvB van 18 mei 2016 slaagt deze beroepsgrond gezien het hiervoor overwogene niet.
+
+Indiceren in uren op activiteitenniveau in plaats van op clusterniveau
+
+16. Eiseres betwist voorts dat verweerder het KPMG-rapport op juiste wijze heeft vertaald naar de situatie van eiseres.
+
+17. Uit het KPMG-rapport blijkt, voor zover hier relevant, het volgende.
+
+De door verweerder ingezette expertgroep heeft de uitgangspunten voor het beleid inzake huishoudelijke ondersteuning uitgewerkt in benodigde activiteiten en frequenties, in kaart gebracht welke activiteiten uitgevoerd moeten worden en met welke frequentie deze activiteiten uitgevoerd moeten worden. Vervolgens heeft de expertgroep de activiteiten en frequenties uit eerdere onderzoeken aangepast naar de Eindhovense situatie. Op basis van de input van de expertgroep is een analysekader uitgewerkt voor de in verweerders beleid onder meer onderscheiden uitkomsten ‘Schoon en leefbaar huis’ en ‘Schone kleding en schoon bedden-en linnengoed’. Het analysekader vormde het startpunt voor de doorrekening en is daarmee het vertrekpunt voor de onderbouwing van het beleid huishoudelijke ondersteuning in de gemeente Eindhoven. De doorrekening levert een representatieve gemiddelde totaaltijd op per uitkomst (of per cluster van activiteiten) en leidt niet tot richttijden per activiteit (p. 29).
+
+Het vertrekpunt voor de uitkomst ‘Schoon en leefbaar huis’ was de frequentie zoals vastgesteld door de expertgroep in het onderzoek voor de gemeente Utrecht “Normering van de basisvoorziening ‘Schoon Huis” (12 augustus 2016). Voor de uitkomst ‘Schone kleding en schoon bedden-en linnengoed’ was de opgestelde frequentie uit het onderzoek voor de gemeente Hoorn het vertrekpunt. Deze frequenties vormden een kwalitatief stevige basis. Deze basis is gewijzigd en aangevuld met inzichten van de experts in Eindhoven. Voor de uiteindelijke doorrekening in dit onderzoek is uitgegaan van de frequenties zoals benoemd door de experts in Eindhoven. Eventuele andere inzichten ten aanzien van de frequenties, zoals benoemd door de experts in het onderzoek voor de gemeente Utrecht, worden toegelicht in paragraaf 5.7. (p. 32).
+
+Omdat niet elke activiteit in elk huishouden uitgevoerd kan worden of nodig is, is een weegfactor gehanteerd voor bepaalde activiteiten. De weegfactor geeft aan in welke mate de tijdsbesteding en frequentie van een bepaalde activiteit meewegen in het bepalen van de totaal benodigde tijd. Het betreft de weegfactoren voor de ruimten woonkamer, slaapkamer, keuken, sanitair en hal binnen de uitkomst ‘Schoon en leefbaar huis’ en de aanwezigheid van een wasmachine en droger voor de uitkomst ‘Schone kleding en schoon bedden-en linnengoed’. De weegfactoren voor de uitkomst ‘Schoon en leefbaar huis’ zijn gebaseerd op het onderzoek voor de gemeente Utrecht waarbij observaties hebben plaatsgevonden in de gemeente Utrecht, Emmen en Haarlem. In dat praktijkonderzoek is de benodigde informatie over ‘weegfactoren’ opgehaald tijdens de observatie van een bezoek van een huishoudelijke hulp. Experts zien dat de aandelen voor weegfactoren ook in Eindhoven kunnen gelden bij het veronderstelde beleid. Voor de uitkomst ‘Schone kleding en schoon bedden-en linnengoed’ zijn de weegfactoren gebaseerd op de uitgangspunten in de gemeente Eindhoven (p. 35).
+
+In het KPMG-rapport is bewust gekozen om geen aanvullende tijdsmetingen uit te voeren in de gemeente Eindhoven. Het genereren van extra maatschappelijke kosten voor gedegen onderzoek dat elders al is gedaan is onnodig. Daarnaast brengt het uitvoeren van tijdsmetingen ook een belasting met zich mee voor cliënten en zorgaanbieders (p. 36).
+
+De totaal benodigde tijd is berekend op basis van de gemiddelde tijdsduur van de onderliggende activiteiten die een bijdrage leveren aan de uitkomst. In de praktijk verschilt de benodigde tijd, afhankelijk van de individuele situatie van de cliënt. Maatwerk staat voorop (p. 45).
+
+Hoewel de expertopvatting in Eindhoven op bepaalde activiteiten en frequenties verschilt met die in Utrecht is de benodigde tijd vergelijkbaar. Dit komt omdat, mede op basis van beleid in Eindhoven, een aantal activiteiten zijn toegevoegd en andere zijn verwijderd, en omdat de frequentie van een aantal activiteiten werden verhoogd terwijl anderen werden verlaagd (p. 46).
+
+Op basis van de observaties in de gemeente Hoorn kan worden geconcludeerd dat er 13% meer tijd nodig is om dezelfde uitkomst voor een meerpersoonshuishouden te bereiken, en dit is 18% volgens analyses op de in Eindhoven geregistreerde data. Beide percentages zijn berekend op basis van een relatief klein aantal metingen, dus enige voorzichtigheid is geboden. Het betekent dat ongeveer 53-73 minuten (13-18% van de 404 minuten directe tijd) extra voldoende is om ook in een meerpersoonshuishouden het beoogde resultaat te behalen (p. 51).
+
+In de beleidsregels en het werkprotocol voor de generalisten dient helder te worden vermeld wat de richttijden zijn voor de clusters van activiteiten per uitkomst en de richtlijn voor extra of minder uren in bepaalde gevallen. De richtlijn bestaat uit gemiddelde tijden op totaalniveau en niet per afzonderlijke activiteit. Er kan beredeneerd worden afgeweken van deze gemiddelden omdat een huis bijvoorbeeld zeer groot is of juist zeer klein en gemakkelijk schoon te houden. Het indicatieproces blijft namelijk te allen tijde maatwerk maar een dergelijke richtlijn maakt het voor de generalist wel gemakkelijker. Daarnaast schept een dergelijke richtlijn duidelijkheid voor de cliënt wat hij kan verwachten van de HbH-ondersteuning. Het is af te raden om de clusters van activiteiten nog verder op te splitsen. Dit omdat de richtlijn dan minder betrouwbaar is door het lagere aantal metingen (p. 53).
+
+18. Uit de hiervoor aangehaalde passages uit het KPMG-rapport maakt de rechtbank op dat het aantal observaties van de individuele activiteiten in Utrecht, Hoorn, Haarlem en Emmen zodanig beperkt is dat op het niveau van de individuele activiteiten geen betrouwbare conclusies konden worden getrokken, mede gezien de spreiding van de metingen. De berekende gemiddelde tijdsduur is, zo begrijpt de rechtbank, statistisch wel betrouwbaar wanneer die wordt berekend door de observaties van de verschillende activiteiten op clusterniveau samen te nemen (p. 29, 51 en 53). Daarmee kan een representatieve gemiddelde totaaltijd worden berekend. Voorts blijkt dat is afgezien van het verrichten van additionele tijdmetingen gezien de daarmee gemoeide maatschappelijke kosten (p. 36).
+
+Tenslotte is de door verweerder ingestelde expertgroep op onderdelen afgeweken van de door KPMG voorgestelde clustering door enkele activiteiten toe te voegen of te verwijderen en de frequentie van andere activiteiten te verhogen of te verlagen. Naar de rechtbank begrijpt acht KPMG de tijdsbesteding voor de uitkomst ‘Schoon en leefbaar huis’ ondanks deze aanpassingen op clusterniveau vergelijkbaar met de tijdsbesteding die volgt uit de observaties in Utrecht, Emmen en Haarlem (p. 46).
+
+19. In het primaire besluit heeft verweerder de huishoudelijke zorg waarvoor eiseres is geïndiceerd slechts uitgedrukt in resultaatsgebieden. Gezien de uitspraak van de voorzieningenrechter van de CRvB van 8 oktober 2018 (ECLI:NL:CRVB:2018:3241) heeft verweerder bij het bestreden besluit terecht gekozen voor indicatie in uren. Verweerder heeft daarbij echter niet op clusterniveau maar op het niveau van individuele activiteiten geïndiceerd. De geïndiceerde activiteiten in samenhang vallen niet samen met de door KPMG benoemde clusters. Gezien de hiervoor geciteerde passages uit het KMPG-rapport wijst eiseres er terecht op dat de voor deze activiteiten geïndiceerde tijd niet is gebaseerd op objectief onderzoek. KPMG raadt immers af te indiceren op het niveau van individuele activiteiten omdat de betrouwbaarheid van de gevonden tijdsbesteding niet gewaarborgd is. Daarnaast is verweerder afgeweken van de door KPMG voor de door hem aangeduide clusters berekende normtijden door bepaalde activiteiten toe te voegen en uit te sluiten en de frequentie van andere activiteiten te wijzigen. Ook in zoverre wijst eiseres er terecht op dat de in het bestreden besluit geïndiceerde tijd niet is gebaseerd op objectief onderzoek. Deze beroepsgrond slaagt aldus.
+
+20. Aan het voorgaande doet niet af dat, zoals de CRvB in de uitspraken van 10 december 2018 heeft overwogen, verweerder gehouden is maatwerk te leveren en van een als standaardpakket te beschouwen cluster van activiteiten moet afwijken als de situatie daartoe aanleiding geeft. Anders dan verweerder ter zitting heeft betoogd bestaat geen grond voor het oordeel dat afwijking van een op objectief onderzoek gebaseerd standaardpakket niet op objectieve maatstaven gebaseerd zou hoeven zijn. Ook het in afwijking van de standaardmodule geboden maatwerk in de vorm van gestandaardiseerde tijdseenheden dient op objectieve criteria, steunend op deugdelijk onderzoek te berusten, gelet op de artikelen 3:2 en 3:46, gelezen in samenhang met artikel 7:12, van de Awb.
+
+21. Verder heeft eiseres naar voren gebracht dat de beïnvloedingsfactoren niet zijn meegenomen in verweerders urenindicatie. Verweerder stelt in het bestreden besluit op pagina 5 wel dat rekening is gehouden met het een meerpersoonshuishouden en het aantal schoon te maken kamers. In de urenberekening bij het bestreden besluit is inderdaad 13,1 minuten extra opgenomen vanwege een meerpersoonshuishouden. Daarnaast is ook tijd toegekend voor het schoonhouden van de serre. Beïnvloedingsfactoren zijn blijkens het door verweerder gevoerde beleid echter ook ‘extra opruimen’, ‘wasdroger niet voorliggend’, ‘nog geen strijkvrije kleding aan kunnen schaffen’ en ‘extra was nodig’ vanwege bijvoorbeeld de gezondheid van eiseres. In het bestreden besluit zijn hier geen overwegingen aan gewijd, zodat het in zoverre niet is voorzien van een motivering die het bestreden besluit kan dragen. Ook deze beroepsgrond slaagt.
+
+Incidentele taken
+
+22. In geschil is voorts de vraag of verweerders beleid ten aanzien van de incidentele taken zich verdraagt met de compensatieplicht die volgt uit de Wmo. Bij incidentele taken gaat het, volgens het KPMG-rapport, om taken die wel moeten worden verricht met het oog op een schoon en leefbaar huis, maar niet frequent.
+
+23. Verweerder stelt zich op het standpunt dat er in beginsel geen tijd voor de incidentele taken hoeft te worden geïndiceerd. Redengevend daarvoor is het feit dat incidentele taken zich kenmerken door een zekere mate van uitstelbaarheid. Daarom is het redelijk om te verwachten dat deze taken kunnen worden vervuld op eigen kracht, mantelzorg of andere personen uit het sociale netwerk. Voor zover blijkt dat iemand niet in staat is de uitvoering van de incidentele taken op eigen kracht te regelen, verwijst verweerder naar de, zoals blijkt uit het bestreden besluit, ‘WIJ-generalist’ om de mogelijkheid om vrijwilligers in te schakelen te onderzoeken. Slechts in bijzondere gevallen ziet verweerder aanleiding om extra tijd te indiceren voor incidentele taken. In het algemene verweerschrift en ter zitting heeft verweerder daarbij gedacht aan situaties waarin de incidentele taken niet uitstelbaar zijn en er dus niet gewacht kan worden op de beschikbaarheid van iemand uit het sociale netwerk of een vrijwilliger.
+
+24. Volgens verweerders beleid maken de incidentele taken geen onderdeel uit van de huishoudelijke ondersteuning, terwijl dat volgens het KPMG-rapport wel zo is. Eiseres stelt dat deze afwijking in het indicatieprotocol c.q. de beleidsregels ten opzichte van het KPMG-rapport niet berust op deugdelijk en onafhankelijk onderzoek en slechts is geformuleerd in het kader van de herijking van het beleid van verweerder. Dit levert volgens eiseres een niet verwaarloosbare afwijking op van de standaardmodule die het KPMG-rapport omschrijft. Verweerders beleid om te verwijzen naar vrijwilligersorganisaties is verder een wassen neus. Verweerder heeft op geen enkele wijze onderbouwd dat er vrijwilligers zijn die incidentele taken op zich willen nemen en er is eiseres en zijn gemachtigde geen enkel geval bekend waarin een vrijwilliger beschikbaar bleek.
+
+25. De rechtbank stelt bij de beoordeling van dit aspect voorop dat ter zitting namens verweerder is erkend dat de incidentele taken moeten worden beschouwd als noodzakelijk om tot het resultaat schoon en leefbaar huis te komen. Dat is ook logisch, anders zouden deze taken überhaupt niet besproken zijn als relevante taken, zowel in het KPMG-rapport als het beleid van verweerder. De rechtbank merkt op dat het standpunt van verweerder ter zitting anders lijkt dan in het bestreden besluit, waarin is verwezen naar Bijlage 1 bij het Protocol, waarin het college stelt dat “de incidentele taken (…) in de basis niet bij[dragen] aan de genoemde resultaten.” De rechtbank leest deze passage aldus dat er volgens verweerder in beginsel geen maatwerkvoorziening nodig is voor de incidentele huishoudelijke taken.
+
+26. De rechtbank overweegt verder dat verweerder in het bestreden besluit, met de stelling onder verwijzing naar de uitspraak van de CRvB van 29 maart 2017 (ECLI:NL:CRVB:2017:1302) dat incidentele taken niet behoren tot de resultaatsverplichting van verweerder, te kort door de bocht gaat. In de genoemde uitspraak van de CRvB is inderdaad overwogen dat voor de incidentele taken geen maatwerkvoorziening hoeft te worden getroffen, maar daaraan heeft de CRvB de voorwaarde verbonden dat er dan wel sprake moet zijn van een voorliggende voorziening die daadwerkelijk beschikbaar, financieel draagbaar en adequaat compenserend is.
+
+27. Nu de incidentele taken moeten worden verricht om tot het resultaat schoon en leefbaar huis te komen, volgt uit artikel 2.3.5, derde lid, van de Wmo 2015 dat ook met betrekking tot de incidentele taken een maatwerkvoorziening moet worden getroffen, tenzij betrokkene die taken op eigen kracht, met gebruikelijke hulp, met mantelzorg of met hulp van andere personen uit zijn sociale netwerk dan wel met gebruikmaking van algemene voorzieningen kan uitvoeren.
+
+28. In het geval van eiseres is niet in geschil dat zij niet in staat is de incidentele taken op eigen kracht, met gebruikelijke hulp, mantelzorg of andere personen uit het sociale netwerk uit te voeren. Verweerder verwijst naar de mogelijkheid voor eiseres om zich aan te melden bij een ‘WIJ-generalist’ om te onderzoeken of er aanleiding bestaat alsnog tijd toe te kennen. Deze mogelijkheid van de inzet van een vrijwilliger kan niet worden beschouwd als een algemene voorziening in de zin van de Wmo. De rechtbank concludeert dat verweerder vrijwilligerswerk kennelijk als een algemeen gebruikelijke voorliggende voorziening beschouwt. Zoals hiervoor al overwogen kan echter pas gesproken worden van een voorliggende voorziening die in de weg staat aan het treffen van een maatwerkvoorziening als deze voorziening daadwerkelijk beschikbaar, financieel draagbaar en adequaat compenserend is. Het inzetten van een vrijwilliger voor het verrichten van incidentele taken zal voor eiseres financieel draagbaar zijn en kan ook adequaat compenserend zijn. Eiseres betwist echter nadrukkelijk dat vrijwilligers beschikbaar zijn. Verweerder heeft niet concreet onderbouwd dat er (min of meer voldoende) vrijwilligers beschikbaar zijn zodat van een algemeen gebruikelijke voorliggende voorziening gesproken zou kunnen worden. Ter zitting heeft verweerder aangegeven dat WIJEindhoven beschikt over contacten met vrijwilligersorganisaties en verwezen naar een website (www.wijhelpen.nl). De rechtbank acht deze enkele verwijzing onvoldoende om te concluderen dat daadwerkelijk structureel vrijwilligers beschikbaar zijn om incidentele taken te verrichten. Van een algemeen gebruikelijke voorliggende voorziening kan daarom niet worden gesproken.
+
+29. De conclusie is dat verweerders beleid om de incidentele taken in beginsel uit te sluiten van de maatwerkvoorziening als onredelijk moet worden beschouwd. Verweerder heeft in het geval van eiseres ten onrechte niet mede een maatwerkvoorziening getroffen voor het verrichten van alle incidentele taken. De beroepsgrond slaagt.
+
+Indirecte tijd
+
+30. Eiseres voert verder aan dat bij de basismodule volgens het KPMG-rapport uitgegaan wordt van 22 minuten aan indirecte tijd. Deze tijd is gebaseerd op metingen bij wekelijkse en tweewekelijkse zorgmomenten. De situatie waarin meerdere keren per week zorg wordt verleend is daarbij dus niet betrokken. Volgens eiseres moet er meer indirecte tijd worden toegekend voor het tweede zorgmoment per week.
+
+31. Verweerder stelt zich op het standpunt dat er voldoende tijd is geïndiceerd om te voorzien in incidentele tijd. Verweerder indiceert daarvoor namelijk 22 minuten, ongeacht de frequentie waarmee wordt schoongemaakt. Verweerder geeft daarbij in het bestreden besluit – onder verwijzing naar pagina 45 van het KPMG-rapport – aan dat maatwerk voorop staat en dat de zorgaanbieder in de praktijk aan indirecte tijd iets meer of minder tijd zal kunnen besteden. In het verweerschrift verwijst verweerder verder naar de paragraaf over indirecte tijd op pagina 39 van het KPMG-rapport en ter zitting heeft verweerder zich verder op het standpunt gesteld dat de beleidskeuze om voor indirecte tijd een forfaitaire tijdseenheid te hanteren verdedigbaar is.
+
+32. De rechtbank stelt naar aanleiding van discussie ter zitting over zorg bij zogenaamde ‘ongelukjes’ voorop dat de gestelde indicatie in dergelijke zorg niet hoeft te voorzien. Huishoudelijke hulp die nodig is naar aanleiding van zulke ongelukjes is naar zijn aard niet voorzienbaar en de behoefte daaraan hoeft dus ook niet te worden geïndiceerd.
+
+33. De rechtbank overweegt dat de indicatie van 22 minuten voor indirecte tijd kennelijk het resultaat is van het gemiddelde dat door KPMG is gemeten. Deze 22 minuten is op pagina 44 van het KPMG-rapport opgenomen in de basismodule die benodigd is om het resultaat schoon en leefbaar huis te bereiken. De rechtbank stelt vast dat deze tijd blijkens pagina 39 van het KPMG-rapport een gewogen gemiddelde is van gemeten bestede tijd voor indirecte zorgtaken bij wekelijks (28 minuten per keer, ofwel 24,3 uur per jaar) en tweewekelijks – dus: om de week en niet twee keer per week, zoals verweerder ter zitting leek te veronderstellen – schoonmaken (31,9 minuten per keer, ofwel 13,8 uur per jaar). Deze tijdsbesteding is vervolgens gemiddeld naar 19 uur per jaar of 22 minuten per week. Uit het KPMG-rapport volgt dat er per zorgmoment minder tijd aan indirecte zorgtaken besteed hoeft te worden als er meer zorgmomenten zijn. De in totaal bestede indirecte tijd is dan echter hoger.
+
+34. Eiseres voert gelet hierop en op de aanzienlijke verschillen in gemeten indirecte tijd bij wekelijkse of tweewekelijkse zorgmomenten terecht aan dat verweerder aanleiding zou moeten zien om – bovenop de basismodule die volgt uit het KPMG-rapport – aanvullende indirecte tijd te indiceren wanneer duidelijk is dat er meer dan één maal per week huishoudelijke hulp verleend zal worden. Ook deze beroepsgrond slaagt derhalve.
+
+De situatie van eiseres
+
+35. Eiseres stelt dat verweerder bij het bestreden besluit is vergeten tijd te indiceren voor bepaalde taken. Vanwege de aandoeningen is sprake van een grote ondersteuningsbehoefte. De wasverzorging moest vanwege de incontinentie en extra knoeien verhoogd worden, hetgeen verweerder ook heeft gedaan met het bestreden besluit. Hetzelfde geldt voor het schoonhouden van de woning. Tevens betwist eiseres de tijd die is geïndiceerd voor het feit dat er sprake is van een meerpersoonshuishouden. Uit het KPMG-rapport blijkt volgens eiseres dat meer tijd nodig is dan nu is geïndiceerd. Ook is volgens eiseres tijd nodig voor het strijkwerk, gelet op het feit dat sprake is van veel wasverzorging, rolstoelgebruik en niet is onderzocht of strijkvrije kleding in deze situatie passend is en of dit een algemeen gebruikelijke voorziening is.
+
+36. De rechtbank overweegt dat gelet op hetgeen hiervoor is overwogen het bestreden besluit reeds geen stand kan houden. Gezien de wijze waarop de rechtbank in het navolgende zelf in de zaak voorziet is er geen reden om de door eiseres gestelde tekortkomingen in de indicatie verder te bespreken.
+
+De proceskosten in bezwaar
+
+37. Met betrekking tot de door verweerder bij het bestreden besluit toegekende proceskosten in bezwaar voert eiseres – kort gezegd – aan dat verweerder ten onrechte een wegingsfactor van 0,25 heeft toegekend. In dit kader overweegt de rechtbank als volgt.
+
+38. Ingevolge het Besluit proceskosten bestuursrecht (Bpb) dient bij de berekening van een vergoeding voor de kosten voor beroepsmatig verleende rechtsbijstand een wegingsfactor te worden toegepast die bepaald wordt door het gewicht van de zaak. In dat verband wordt in het Bpb een onderscheid gemaakt tussen zeer lichte, lichte, gemiddelde, zware en zeer zware zaken, waarvoor wegingsfactoren gelden van respectievelijk 0,25, 0,5, 1, 1,5 en 2.
+
+38. Eiseres stelt zich in beroep terecht op het standpunt dat verweerder in het bestreden besluit ten onrechte een wegingsfactor van 0,25 heeft gehanteerd. Daartoe is van belang dat op grond van paragraaf C van de bijlage bij het Bpb plaats is voor de toepassing van een wegingsfactor 0,25 wanneer sprake is van een zaak van zeer licht gewicht. Uit vaste rechtspraak van de CRvB (zie onder meer de uitspraak van 2 maart 2006, ECLI:NL:CRVB:2006:AV3988) volgt daarbij dat als uitgangspunt heeft te gelden dat de behandeling van een zaak in beginsel behoort tot de categorie gemiddeld (wegingsfactor 1), tenzij duidelijke redenen aanwezig zijn om hiervan af te wijken. Een andere wegingsfactor dan 1 wordt naar vaste rechtspraak slechts gehanteerd bij een naar juridische en/of feitelijke complexiteit van het gemiddelde afwijkende zaak. Hiervan is in deze zaak niet gebleken. Reeds om die reden heeft verweerder ten onrechte een wegingsfactor van 0,25 gehanteerd.
+
+40. Voor zover verweerder heeft bedoeld zich op het standpunt te stellen dat sprake is van bijzondere omstandigheden als bedoeld in artikel 2, derde lid, van het Bpb volgt de rechtbank verweerder hierin evenmin. Blijkens de nota van toelichting bij deze bepaling (Stb. 1993, 763) moet het daarbij gaan om uitzonderlijke gevallen, waarin strikte toepassing van het forfaitaire vergoedingsstelsel onrechtvaardig uitpakt. Het enkele feit dat, als gevolg van het door verweerder niet tijdig beslissen op het bezwaar van eiseres en dat van andere bezwaarmakers, grote aantallen bezwaarschriften in een kort tijdsbestek zijn behandeld, is daartoe naar het oordeel van de rechtbank onvoldoende. Daar komt bij dat de rechtbank onvoldoende is gebleken dat een vergoeding volgens het forfaitaire vergoedingenstelsel niet in verhouding zou staan tot de door de gemachtigde verrichte werkzaamheden. Onder die omstandigheden is de rechtbank van oordeel dat er geen grond bestaat voor het oordeel dat met toepassing van artikel 2, derde lid, van het Bpb moet worden afgeweken van het bepaalde in artikel 2, eerste lid, van het Bpb.
+
+41. Dit betekent dat verweerder aan eiseres met betrekking tot de door haar in bezwaar redelijkerwijs gemaakte proceskosten een vergoeding van € 1.024,00 is verschuldigd.
+
+Conclusie
+
+42. Gezien de voorgaande overwegingen is het beroep gegrond en zal het bestreden besluit worden vernietigd. De CRvB zoekt in zaken over huishoudelijke ondersteuning bij het zelf voorzien in de zaak aansluiting bij de laatste niet meer in geschil zijnde indicatie, dan wel de normen van het CIZ Protocol Huishoudelijke Verzorging (bijvoorbeeld de uitspraak van 18 oktober 2017, ECLI:NL:CRVB:2017:3633). Met het oog op een finale geschilbeslechting ziet de rechtbank daarom aanleiding om zelf in de zaak te voorzien en aan eiseres conform het CIZ-protocol huishoudelijke hulp toe te kennen voor de duur van 6 uur en 30 minuten per week met ingang van 1 januari 2018. De laatste niet in geschil zijnde indicatie bedroeg 5 uur en 30 minuten per week, maar gezien de door eiseres bestreden indicatie voor 5 uur en 51 minuten is niet in geschil dat die indicatie niet toereikend is. Het staat verweerder vrij om de huishoudelijke ondersteuning van eiseres na aanpassing van de gemeentelijke regelgeving conform de overwegingen 4.11 en 4.12 van eerder genoemde uitspraak van de voorzieningenrechter van de CRvB van 8 oktober 2018 en na herbeoordeling met inachtneming van artikel 2.3.2 van de Wmo 2015 in te trekken of te wijzigen voor de toekomst.
+
+43. Het beroep tegen het bestreden besluit is (om meerdere redenen) gegrond. De rechtbank ziet hierin aanleiding om verweerder, naast hetgeen hiervoor is overwogen met betrekking tot de proceskosten in bezwaar te veroordelen in de proceskosten die eiseres in beroep verder redelijkerwijs heeft moeten maken. Zoals hiervoor overwogen zal de rechtbank verweerder veroordelen in de proceskosten die eiseres redelijkerwijs heeft moeten maken voor het instellen van het beroep wegens niet tijdig beslissen. Deze kosten worden overeenkomstig het Bpb voor de door een derde beroepsmatig verleende rechtsbijstand vastgesteld op € 256,00 (1 punt voor het indienen van het beroepschrift met een waarde per punt van € 512,00 en een wegingsfactor 0,5). De rechtbank is van oordeel dat deze zaak van gering gewicht is, nu deze procedure slechts betrekking heeft op de vraag of verweerder niet tijdig heeft beslist op het bezwaar. De kosten die eiseres verder in beroep heeft moeten maken worden begroot op € 1.280,00 (1 punt voor het indienen van het beroep, 0,5 punt voor de verschijning ter comparitie en 1 punt voor het verschijnen ter zitting, met wegingsfactor 1). Hierbij overweegt de rechtbank dat ook in beroep onvoldoende is gebleken dat een vergoeding volgens het forfaitaire vergoedingenstelsel niet in verhouding zou staan tot de door de gemachtigde verrichte werkzaamheden. Ook met betrekking tot de door eiseres in beroep gemaakte proceskosten bestaat er dan ook geen grond voor het oordeel dat met toepassing van artikel 2, derde lid, van het Bpb moet worden afgeweken van het bepaalde in artikel 2, eerste lid, van het Bpb. Verweerder dient derhalve in totaal € 2.560,00 aan eiseres te vergoeden. Daarnaast moet verweerder het griffierecht aan eiseres vergoeden.
+
+Beslissing
+
+De rechtbank:
+
+verklaart het beroep wegens niet tijdig beslissen niet-ontvankelijk;
+
+verklaart het beroep tegen het bestreden besluit gegrond en vernietigt het bestreden besluit voor zover daarbij het bezwaar ongegrond is verklaard en een proceskostenvergoeding is toegekend;
+
+verklaart het bezwaar gegrond;
+
+kent eiseres met ingang van 1 januari 2018 een recht op 6 uur en 30 minuten hulp per week toe;
+
+bepaalt dat deze uitspraak in de plaats treedt van het bestreden besluit voor zover vernietigd;
+
+veroordeelt verweerder in de proceskosten die eiseres redelijkerwijs in bezwaar en beroep heeft moeten maken, begroot op € 2.560,00;
+
+bepaalt dat verweerder het griffierecht van € 47,00 aan eiseres moet vergoeden.
+
+Deze uitspraak is gedaan door mr. A.F.C.J. Mosheuvel, voorzitter, en mr. C.T.C. Wijsman en mr. S.A.J. de Jong-Nibourg, leden, in aanwezigheid van drs. M.T. Petersen, griffier. De uitspraak is in het openbaar geschied op 20 augustus 2019.
+
+De griffier is verhinderd									voorzitter
+
+deze uitspraak mede te ondertekenen
+
+Afschrift verzonden aan partijen op:
+
+Rechtsmiddel
+
+Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.
