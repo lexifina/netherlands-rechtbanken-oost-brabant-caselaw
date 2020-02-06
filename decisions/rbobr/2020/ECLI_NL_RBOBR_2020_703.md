@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2020:703"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1419", "PR-Updates.nl PR-2020-0189", "PJ 2021/6"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1419", "PR-Updates.nl PR-2020-0189", "PJ 2021/6", "VAAN-AR-Updates.nl 2020-1419", "PR-Updates.nl 2020-0189"]
 ---
 
 # ECLI:NL:RBOBR:2020:703 Rechtbank Oost-Brabant , 06-02-2020 / 7332700
