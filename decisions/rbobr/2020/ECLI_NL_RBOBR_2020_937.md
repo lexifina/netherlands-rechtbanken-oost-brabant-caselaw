@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2020:937"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1745, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBOBR:2020:937 Rechtbank Oost-Brabant , 18-02-2020 / 19/1151
