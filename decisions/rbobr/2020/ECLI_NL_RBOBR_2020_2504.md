@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2020:2504"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0568", "PR-Updates.nl PR-2020-0106", "PJ 2020/92"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0568", "PR-Updates.nl PR-2020-0106", "PJ 2020/92", "VAAN-AR-Updates.nl 2020-0568", "PR-Updates.nl 2020-0106"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2023:913"]]
 ---
 
 # ECLI:NL:RBOBR:2020:2504 Rechtbank Oost-Brabant , 14-05-2020 / 7816786
