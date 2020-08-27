@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2020:4206"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1056", "INS-Updates.nl 2020-0256", "JAR 2020/243", "PR-Updates.nl PR-2020-0160", "RI 2020/99", "JOR 2021/47 met annotatie van Pijl, J. van der", "JONDR 2020/1076"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1056", "INS-Updates.nl 2020-0256", "JAR 2020/243", "PR-Updates.nl PR-2020-0160", "RI 2020/99", "JOR 2021/47 met annotatie van Pijl, J. van der", "JONDR 2020/1076", "VAAN-AR-Updates.nl 2020-1056", "PR-Updates.nl 2020-0160"]
 ---
 
 # ECLI:NL:RBOBR:2020:4206 Rechtbank Oost-Brabant , 27-08-2020 / 8620467
