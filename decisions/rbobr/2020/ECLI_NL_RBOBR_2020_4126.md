@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2020:4126"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 29-09-2020", "V-N Vandaag 2020/2325", "FutD 2020-2864", "Belastingblad 2020/440 met annotatie van J.C. Scherff", "V-N 2020/62.2.5", "NLF 2020/2163 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2325", "Belastingblad 2020/440 met annotatie van J.C. Scherff", "V-N 2020/62.2.5", "NLF 2020/2163", "FutD 2020-2864", "Viditax (FutD) 2020092906"]
 ---
 
 # ECLI:NL:RBOBR:2020:4126 Rechtbank Oost-Brabant , 28-08-2020 / 19/2469
