@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2020:5777"
 published_in: ["Rechtspraak.nl", "JW 2021/1"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:2534, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBOBR:2020:5777 Rechtbank Oost-Brabant , 23-11-2020 / 01-997036-16
