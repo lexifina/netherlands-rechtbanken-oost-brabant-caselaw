@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Tussenuitspraak"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2020:5970"
-published_in: ["Rechtspraak.nl", "OGR-Updates.nl 2020-0276", "M en R 2021/36 met annotatie van B. Arentz"]
+published_in: ["Rechtspraak.nl", "OGR-Updates.nl 2020-0276", "M en R 2021/36 met annotatie van B. Arentz", "JM 2021/107 met annotatie van Ven, F.A.M. van de"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4569, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBOBR:2020:5970 Rechtbank Oost-Brabant , 01-12-2020 / 20/1938T en 20/1973
