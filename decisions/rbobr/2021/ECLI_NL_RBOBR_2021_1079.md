@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2021:1079"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0070"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0070", "PR-Updates.nl 2021-0070"]
 ---
 
 # ECLI:NL:RBOBR:2021:1079 Rechtbank Oost-Brabant , 11-03-2021 / 20/913
