@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2021:2116"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1875", "V-N 2021/33.24.53", "Belastingblad 2021/354 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1875", "V-N 2021/33.24.53", "Belastingblad 2021/354"]
 ---
 
 # ECLI:NL:RBOBR:2021:2116 Rechtbank Oost-Brabant , 30-04-2021 / 20/2627
