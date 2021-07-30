@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2021:4115"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0168"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0168", "PR-Updates.nl 2021-0168"]
 ---
 
 # ECLI:NL:RBOBR:2021:4115 Rechtbank Oost-Brabant , 30-07-2021 / 370100 KG ZA 21-249
