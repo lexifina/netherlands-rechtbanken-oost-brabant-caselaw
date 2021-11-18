@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2021:7204"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0735", "PR-Updates.nl PR-2022-0138", "VAAN-AR-Updates.nl 2022-0735"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0735", "PR-Updates.nl PR-2022-0138", "VAAN-AR-Updates.nl 2022-0735", "PR-Updates.nl 2022-0138"]
 ---
 
 # ECLI:NL:RBOBR:2021:7204 Rechtbank Oost-Brabant , 18-11-2021 / 8835400 CV EXPL 20-5486
