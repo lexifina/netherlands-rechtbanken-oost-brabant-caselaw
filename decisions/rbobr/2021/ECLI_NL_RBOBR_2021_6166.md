@@ -10,6 +10,7 @@ procedure: "Mondelinge uitspraak"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2021:6166"
 published_in: ["Rechtspraak.nl", "JOM 2021/547"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:4940, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBOBR:2021:6166 Rechtbank Oost-Brabant , 19-11-2021 / 21/2553 en 21/2554
