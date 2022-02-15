@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2022:444"
 published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2022-0114"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1846, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBOBR:2022:444 Rechtbank Oost-Brabant , 15-02-2022 / 21/527
