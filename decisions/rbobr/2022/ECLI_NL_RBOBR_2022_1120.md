@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2022:1120"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0076", "Sdu Nieuws Personen- en familierecht 2022/221"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0076", "Sdu Nieuws Personen- en familierecht 2022/221", "PR-Updates.nl 2022-0076"]
 cites_law: ["netherlands/national/acts/bw-boek-1/art-401.md"]
 ---
 
