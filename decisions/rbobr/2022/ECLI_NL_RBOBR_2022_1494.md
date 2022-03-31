@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2022:1494"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0446", "PJ 2022/43", "PR-Updates.nl PR-2022-0090", "VAAN-AR-Updates.nl 2022-0446"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0446", "PJ 2022/43", "PR-Updates.nl PR-2022-0090", "VAAN-AR-Updates.nl 2022-0446", "PR-Updates.nl 2022-0090"]
 ---
 
 # ECLI:NL:RBOBR:2022:1494 Rechtbank Oost-Brabant , 31-03-2022 / 9238285 CV EXPL 21-2570
