@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2022:2722"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CRVB:2026:230, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBOBR:2022:2722 Rechtbank Oost-Brabant , 17-06-2022 / SHE 21/2437
