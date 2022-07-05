@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2022:2718"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1744, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBOBR:2022:2718 Rechtbank Oost-Brabant , 05-07-2022 / 22/352m 22/353 en 22/272
