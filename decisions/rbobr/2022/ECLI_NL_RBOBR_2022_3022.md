@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2022:3022"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1224"]]
 ---
 
 # ECLI:NL:RBOBR:2022:3022 Rechtbank Oost-Brabant , 29-07-2022 / 01/068853-21
@@ -365,7 +366,7 @@ Het verkregen DNA-mengprofiel van deze bemonstering kan verklaard worden door ee
 DNA-mengprofiel AAMV5340NL#01 is, ongeacht of er drie of vier personen DNA hebben bijgedragen, meer dan 1 miljard keer waarschijnlijker wanneer de bemonstering DNA bevat van [slachtoffer] , [medeverdachte 1] en één of twee willekeurige onbekende personen, dan wanneer de bemonstering DNA bevat van [slachtoffer] en twee of drie willekeurige onbekende personen.
 
 Bemonstering AAMV5337NL#02 (buitenzijde linkermouw ter hoogte van de onderarm):
-De volgende hypotheses zijn bij de berekeningen betrokken:Hypothese 1: Het DNA is afkomstig van [slachtoffer] , [medeverdachte 1] , verdachte [verdachte 1] en een onbekende persoon.Hypothese 2: Het DNA is afkomstig van [slachtoffer] , [medeverdachte 1] en twee onbekende personen.Hypothese 3: Het DNA is afkomstig van [slachtoffer] , verdachte[verdachte 1] en twee onbekende personen.Hypothese 4: Het DNA is afkomstig van [slachtoffer] en drie onbekende personen.
+De volgende hypotheses zijn bij de berekeningen betrokken:Hypothese 1: Het DNA is afkomstig van [slachtoffer] , [medeverdachte 1][medeverdachte 1] , verdachte [verdachte 1] en een onbekende persoon.Hypothese 2: Het DNA is afkomstig van [slachtoffer] , [medeverdachte 1][medeverdachte 1] en twee onbekende personen.Hypothese 3: Het DNA is afkomstig van [slachtoffer] , verdachte[verdachte 1] en twee onbekende personen.Hypothese 4: Het DNA is afkomstig van [slachtoffer] en drie onbekende personen.
 
 Bij elke hypothese is aangenomen dat de onbekende personen niet verwant zijn aan elkaar, noch aan slachtoffer of verdachte. Uit de berekeningen volgt dat DNA-mengprofiel AAMV5337NL#02 ten minste 60 miljoen keer waarschijnlijker is onder hypothese 1 (de bemonstering bevat DNA bevat van [slachtoffer] , [medeverdachte 1] , verdachte [verdachte 1] en een willekeurige onbekende persoon) dan onder elk van de andere hierboven genoemde hypotheses.
 
