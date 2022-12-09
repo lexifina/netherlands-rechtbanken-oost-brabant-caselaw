@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2022:5384"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5736, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBOBR:2022:5384 Rechtbank Oost-Brabant , 09-12-2022 / 20/3705
