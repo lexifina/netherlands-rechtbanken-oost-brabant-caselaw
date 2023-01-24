@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening+bodemzaak"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2023:358"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:4789, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBOBR:2023:358 Rechtbank Oost-Brabant , 24-01-2023 / 22/2227 en 22/1526
