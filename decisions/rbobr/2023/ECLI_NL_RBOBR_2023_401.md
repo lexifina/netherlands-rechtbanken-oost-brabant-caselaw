@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2023:401"
 published_in: ["Rechtspraak.nl", "NTHR 2023, afl. 2, p. 60"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:645"]]
 ---
 
 # ECLI:NL:RBOBR:2023:401 Rechtbank Oost-Brabant , 01-02-2023 / C/01/335249 / HA ZA 18-407
@@ -67,7 +68,7 @@ advocaat mr. B.W.G. van der Velden te Amsterdam.
 
 Partijen zullen hierna [eisers] en SEB Life genoemd worden.
 
-[eisers] zal daarbij in meervoud worden aangeduid en SEB Life in vrouwelijk enkelvoud. zullen afzonderlijk worden aangeduid als [eiser sub 1] , [eiser sub 2] en [eiser sub 3] .
+[eisers] zal daarbij in meervoud worden aangeduid en SEB Life in vrouwelijk enkelvoud.[eisers] zullen afzonderlijk worden aangeduid als [eiser sub 1] , [eiser sub 2] en [eiser sub 3] .
 
 1
 De procedure
@@ -99,7 +100,7 @@ Wat is er gebeurd? Samenvatting eerdere vonnissen in deze zaak.
 
 2.1.
 
-Via de PPP werden door SEB Life levensverzekeringen voor [eisers] afgesloten waarvan het rendement afhankelijk was van beleggingsfondsen. De modelportefeuille die aan [eisers] is aangeboden betrof de zogenaamde ‘Blauwdruk Portefeuille’ bestaande uit 1 tot 5 fondsen. Dit waren de volgende fondsen: 1) het Cubex fonds, 2) het MPV Premium Euro fonds, 3) het Argyle fonds, 4) het Axiom fonds en 5) het Secured Growth Finance Opportunities […] Secured Loan fonds (voorheen Methexis fonds).  hebben PPP’s afgesloten waarin beleggingen in (een aantal van) deze fondsen zijn ondergebracht. De rechtbank verwijst naar de punten 3.9 tot en met 3.12. van het tussenvonnis van 13 mei  2020.
+Via de PPP werden door SEB Life levensverzekeringen voor [eisers] afgesloten waarvan het rendement afhankelijk was van beleggingsfondsen. De modelportefeuille die aan [eisers] is aangeboden betrof de zogenaamde ‘Blauwdruk Portefeuille’ bestaande uit 1 tot 5 fondsen. Dit waren de volgende fondsen: 1) het Cubex fonds, 2) het MPV Premium Euro fonds, 3) het Argyle fonds, 4) het Axiom fonds en 5) het Secured Growth Finance Opportunities […] Secured Loan fonds (voorheen Methexis fonds). [eisers] hebben PPP’s afgesloten waarin beleggingen in (een aantal van) deze fondsen zijn ondergebracht. De rechtbank verwijst naar de punten 3.9 tot en met 3.12. van het tussenvonnis van 13 mei  2020.
 
 2.2.
 
