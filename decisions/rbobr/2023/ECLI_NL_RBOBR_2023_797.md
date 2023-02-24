@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2023:797"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/689", "NLF 2023/0741 met annotatie van Nicoline Bergman", "Belastingblad 2023/176 met annotatie van J.M.J.F. JANSEN", "V-N 2023/22.2.7", "Viditax (FutD) 2023032913", "FutD 2023-0839"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:464, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBOBR:2023:797 Rechtbank Oost-Brabant , 24-02-2023 / 22/172
