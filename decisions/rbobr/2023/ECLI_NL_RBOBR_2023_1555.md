@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2023:1555"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1949, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1948, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBOBR:2023:1555 Rechtbank Oost-Brabant , 06-04-2023 / 22/1872, 22/1906, 22/1910
