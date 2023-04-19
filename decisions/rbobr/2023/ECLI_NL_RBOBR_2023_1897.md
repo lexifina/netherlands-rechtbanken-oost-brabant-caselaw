@@ -10,6 +10,7 @@ procedure: "Mondelinge uitspraak"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2023:1897"
 published_in: ["Rechtspraak.nl", "Belastingblad 2023/198 met annotatie van Redactie"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2768, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBOBR:2023:1897 Rechtbank Oost-Brabant , 19-04-2023 / 21/2808
