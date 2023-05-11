@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2023:2151"
 published_in: ["Rechtspraak.nl", "Belastingblad 2023/215", "Viditax (FutD) 2023052307", "FutD 2023-1380"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:466, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBOBR:2023:2151 Rechtbank Oost-Brabant , 11-05-2023 / 21/3131
