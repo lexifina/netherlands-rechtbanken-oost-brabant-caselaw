@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2023:2572"
 published_in: ["Rechtspraak.nl", "JOM 2023/253"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2901, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBOBR:2023:2572 Rechtbank Oost-Brabant , 26-05-2023 / 22/2003
