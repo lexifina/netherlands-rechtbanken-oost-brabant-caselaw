@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2023:3260"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1814, Niet ontvankelijk"]]
 ---
 
 # ECLI:NL:RBOBR:2023:3260 Rechtbank Oost-Brabant , 05-07-2023 / 22/2751 en 22/2730
