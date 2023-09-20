@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2023:4672"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2682"]]
 ---
 
 # ECLI:NL:RBOBR:2023:4672 Rechtbank Oost-Brabant , 20-09-2023 / C-01-376774 - HA ZA 21-810
