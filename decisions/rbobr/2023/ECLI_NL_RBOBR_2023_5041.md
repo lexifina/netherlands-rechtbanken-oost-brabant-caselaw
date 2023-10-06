@@ -10,6 +10,7 @@ procedure: "Mondelinge uitspraak"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2023:5041"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:6427, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBOBR:2023:5041 Rechtbank Oost-Brabant , 06-10-2023 / 22/610 en 23/1729
