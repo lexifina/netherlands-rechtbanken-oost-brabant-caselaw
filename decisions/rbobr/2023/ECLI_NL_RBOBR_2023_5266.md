@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2023:5266"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0229"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0229", "PR-Updates.nl 2023-0229"]
 ---
 
 # ECLI:NL:RBOBR:2023:5266 Rechtbank Oost-Brabant , 08-11-2023 / C/01/373284 / HA ZA 21-504
