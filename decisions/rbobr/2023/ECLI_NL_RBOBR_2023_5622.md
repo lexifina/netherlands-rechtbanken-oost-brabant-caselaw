@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2023:5622"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1488", "Sdu Nieuws Arbeidsrecht 2023/461", "PR-Updates.nl PR-2024-0020", "VAAN-AR-Updates.nl 2023-1488"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1488", "Sdu Nieuws Arbeidsrecht 2023/461", "PR-Updates.nl PR-2024-0020", "VAAN-AR-Updates.nl 2023-1488", "PR-Updates.nl 2024-0020"]
 ---
 
 # ECLI:NL:RBOBR:2023:5622 Rechtbank Oost-Brabant , 16-11-2023 / 10674019 \ EJ VERZ  23-440
