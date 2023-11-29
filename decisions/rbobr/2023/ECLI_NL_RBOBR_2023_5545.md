@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2023:5545"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2024-0009", "NJF 2024/62", "JBPr 2024/30 met annotatie van mr. F.J.P. Stoop, prof. mr. B. van Zelst"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2024-0009", "NJF 2024/62", "JBPr 2024/30 met annotatie van mr. F.J.P. Stoop, prof. mr. B. van Zelst", "BPR-Updates.nl 2024-0009"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:1150"]]
 ---
 
