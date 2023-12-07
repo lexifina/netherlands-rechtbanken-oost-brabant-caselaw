@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2023:5698"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0014", "JAR 2024/25", "PJ 2024/14 met annotatie van L.A.J. Kuijpers, R.C. Akkermans"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0014", "JAR 2024/25", "PJ 2024/14 met annotatie van L.A.J. Kuijpers, R.C. Akkermans", "PR-Updates.nl 2024-0014"]
 ---
 
 # ECLI:NL:RBOBR:2023:5698 Rechtbank Oost-Brabant , 07-12-2023 / 9923944
