@@ -1,0 +1,166 @@
+---
+ecli: "ECLI:NL:RBOBR:2024:74"
+court: "Rechtbank Oost-Brabant"
+court_code: "RBOBR"
+docket: "01-997028-16 (ontneming)"
+decided: "2024-01-11"
+published: "2024-01-11"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:74"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBOBR:2024:74 Rechtbank Oost-Brabant , 11-01-2024 / 01-997028-16 (ontneming)
+
+## Inhoudsindicatie
+
+Verdachte en de officier van justitie hebben in deze zaak procesafspraken gemaakt. De rechtbank heeft deze procesafspraken integraal gevolgd waar het gaat om de bewezenverklaring en de strafmaat.
+
+## Uitspraak
+
+vonnis
+
+RECHTBANK OOST-BRABANT
+
+Locatie ’s-Hertogenbosch
+
+Strafrecht
+
+Parketnummer ontneming: 01.997028.16
+
+Datum uitspraak: 11 januari 2024
+
+Verkort vonnis van de rechtbank Oost-Brabant, meervoudige economische kamer voor de behandeling van strafzaken, in de zaak tegen:
+
+[verdachte] ,
+
+geboren te [geboorteplaats] op [1968] ,
+
+wonende te [adres] ,
+
+hierna veroordeelde.
+
+1
+Het onderzoek.
+
+De vordering is behandeld op de openbare terechtzitting van 26 april 2021, 7 december 2023 en 11 januari 2024.
+
+De behandeling van de vordering heeft gelijktijdig plaatsgehad met de behandeling van de strafzaak tegen veroordeelde eveneens met parketnummer 01.997028.16.
+
+De rechtbank heeft kennisgenomen van de vordering van de officier van justitie en van hetgeen door veroordeelde en zijn raadsman naar voren is gebracht.
+
+2
+De vordering.
+
+De vordering van de officier van justitie van 16 maart 2021 strekt tot het vaststellen van het bedrag waarop het wederrechtelijk verkregen voordeel als bedoeld in artikel 36e, lid 5, van het Wetboek van Strafrecht (Sr) wordt geschat op € 6.227.070,- en tot het opleggen van een verplichting tot betaling aan de Staat van dat geldbedrag ter ontneming van dat geschatte voordeel.
+
+De officier van justitie heeft ter terechtzitting op 7 december 2023 de vordering gematigd, in die zin dat overeenkomstig de gemaakte procesafspraken een bedrag van  € 867.820,- is gevorderd.
+
+3
+Het standpunt van de verdediging.
+
+De verdediging heeft verzocht de ontnemingszaak af te doen zoals in de procesafspraken is overeengekomen.
+
+4
+Het afdoeningsvoorstel.
+
+Op 9 oktober 2023 zijn door de officier van justitie en de verdediging procesafspraken gemaakt. De rechtbank is niet betrokken geweest bij de totstandkoming van die procesafspraken. Het gezamenlijk voorstel voor afdoening van de ontnemingszaak is aan de rechtbank voorgelegd.
+
+Het afdoeningsvoorstel houdt in een schatting van het wederrechtelijk verkregen voordeel en de oplegging van een betalingsverplichting, zoals hierna omschreven:
+
+- het wederrechtelijk verkregen voordeel wordt geschat op € 867.820,-;
+
+veroordeelde en medeveroordeelde [bedrijf] gaan akkoord met een hoofdelijke verplichting tot betaling aan de Staat van € 867.820,-;
+
+de rechtbank zal de duur van de gijzeling bepalen in overeenstemming met het normale hiervoor geldende rechtskader.
+
+5
+De veroordeling.
+
+Bij vonnis van deze rechtbank van 11 januari 2024 is veroordeelde veroordeeld tot een taakstraf van 240 uren, subsidiair 120 dagen hechtenis, en een geheel voorwaardelijke gevangenisstraf voor de duur van 9 maanden met een proeftijd van één jaar. Deze veroordeling is uitgesproken vanwege het feitelijke leidinggeven aan het medeplegen van een overtreding van een voorschrift gesteld bij artikel 3.1 eerste lid van de Wet dieren, opzettelijk begaan door een rechtspersoon.
+
+De rechtbank verwijst voor de bewezenverklaring naar het vonnis van 11 januari 2024.
+
+6. De beoordeling van de vordering en het afdoeningsvoorstel met betrekking tot de schatting van het wederrechtelijk verkregen voordeel.
+
+6.1.
+
+Het toetsingskader.
+
+De grondslag voor de ontnemingsvordering betreft artikel 36e, eerste en tweede lid, Sr. Op grond van dit artikel kan aan degene die is veroordeeld voor een strafbaar feit de verplichting worden opgelegd tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel, indien aannemelijk is dat dat feit er op enige manier voor heeft gezorgd dat de veroordeelde wederrechtelijk voordeel heeft verkregen.
+
+Bij de beoordeling van het afdoeningsvoorstel zijn voor de rechtbank de voorwaarden van artikel 36e Sr leidend. Daarnaast is de rechtbank bij de beoordeling van het afdoeningsvoorstel uitgegaan van het kader dat de Hoge Raad heeft gegeven in zijn arrest van 27 september 2022 (ECLI:NL:HR:2022:1252).
+
+6.2.
+
+De beoordeling.
+
+De rechtbank stelt vast dat de vordering tijdig is ingediend.
+
+Daarnaast stelt de rechtbank vast dat veroordeelde bij de totstandkoming van het afdoeningsvoorstel is bijgestaan door zijn raadsman en dat hij kennis heeft genomen van de inhoud van het voorstel. Veroordeelde is, voorzien van rechtsbijstand, ter terechtzitting aanwezig geweest.
+
+De rechtbank heeft richting partijen benadrukt dat de rechtbank geen partij is bij de overeenkomst tussen veroordeelde en het Openbaar Ministerie en dat de rechtbank niet is gebonden aan het in die overeenkomst opgenomen afdoeningsvoorstel.
+
+De rechtbank heeft tijdens de inhoudelijke behandeling ter terechtzitting op 7 december 2023 het afdoeningsvoorstel en de consequenties daarvan met veroordeelde besproken. Veroordeelde heeft ten overstaan van de rechtbank nogmaals bevestigd de inhoud van de overeenkomst en de procesrechtelijke gevolgen hiervan te kennen, te begrijpen en hiermee in te stemmen.
+
+De rechtbank is daarom van oordeel dat veroordeelde vrijwillig, op basis van voldoende en duidelijke informatie en terwijl hij zich bewust was van de rechtsgevolgen, is gekomen tot de ondubbelzinnige beslissing mee te werken aan het afdoeningsvoorstel en de daarmee gepaard gaande afstand van verdedigingsrechten. De wijze waarop de overeenkomst tot stand is gekomen, doet daarnaast geen afbreuk aan het aan hem op grond van artikel 6 EVRM toekomende recht op een eerlijk proces.
+
+6.3.
+
+De berekening van het wederrechtelijk verkregen voordeel.
+
+De rechtbank slaat acht op de berekening van het wederrechtelijk verkregen voordeel zoals is opgenomen in bijlage 3 behorende bij de overeenkomst tussen het Openbaar Ministerie en veroordeelde met betrekking tot het afdoeningsvoorstel. Naar het oordeel van de rechtbank is de berekening gegrond op het bewezenverklaarde feit, het op basis van dat feit verkregen voordeel en weerspiegelt dit het aandeel van veroordeelde daarin. Dat betekent dat de rechtbank het wederrechtelijk verkregen voordeel schat op het bedrag van  € 867.820,-.
+
+7
+De bewijsmiddelen.
+
+Als tegen dit verkort vonnis een rechtsmiddel wordt ingesteld, worden de door de rechtbank gebruikte bewijsmiddelen opgenomen in een aanvulling op dit verkort vonnis. Deze aanvulling wordt dan aan dit verkort vonnis gehecht.
+
+8
+De betalingsverplichting.
+
+8.1.
+
+Matiging van de betalingsverplichting.
+
+In het afdoeningsvoorstel zijn geen omstandigheden aangedragen die nopen tot matiging van de betalingsverplichting. Ook anderszins zijn dergelijke omstandigheden niet gebleken.
+
+8.2.
+
+Hoofdelijke betalingsverplichting.
+
+De rechtbank stelt overeenkomstig het afdoeningsvoorstel vast dat veroordeelde samen met medeveroordeelde [bedrijf] van het wederrechtelijk verkregen voordeel heeft geprofiteerd en de beschikking heeft gehad over het gehele bedrag. Het ligt daarom in de rede om aan veroordeelde en [bedrijf] een hoofdelijke betalingsverplichting op te leggen voor het vastgestelde wederrechtelijk verkregen voordeel.
+
+8.3.
+
+Conclusie.
+
+De rechtbank zal de betalingsverplichting vaststellen op € 867.820,-  en zal bepalen dat veroordeelde samen met medeveroordeelde [bedrijf] hoofdelijk aansprakelijk is.
+
+Toepasselijke wetsartikel.
+
+Deze beslissing is gegrond op artikel 36e van het Wetboek van Strafrecht.
+
+De uitspraak.
+
+De rechtbank:
+
+- stelt het bedrag waarop het wederrechtelijk verkregen voordeel wordt geschat vast op € 867.820,-;
+
+- legt aan [verdachte] de verplichting op tot betaling aan de Staat van een geldbedrag ter grootte van € 867.820,- ter ontneming van het geschatte wederrechtelijk verkregen voordeel, dat hij, door middel van of uit de baten van het feit ter zake waarvan hij is veroordeeld, heeft verkregen;
+
+- bepaalt dat de verplichting tot betaling aan de Staat ter ontneming van het wederrechtelijk verkregen voordeel komt te vervallen als en voor zover de medeveroordeelde [bedrijf] heeft voldaan aan de verplichting tot betaling aan de Staat;
+
+- bepaalt de duur van de gijzeling die met toepassing van artikel 6:6:25 van het Wetboek van Strafvordering ten hoogste kan worden gevorderd op 1080 dagen.
+
+Dit vonnis is gewezen door:
+
+mr. A.H.J.J. van de Wetering, voorzitter,
+
+mr. H. Slaar en mr. G.M. Blanken, leden,
+
+in tegenwoordigheid van mr. N.P.M. van de Wouw, griffier,
+
+en is uitgesproken op 11 januari 2024.
