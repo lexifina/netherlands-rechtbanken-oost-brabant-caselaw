@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:302"
 published_in: ["Rechtspraak.nl", "NJF 2024/138"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2744"]]
 ---
 
 # ECLI:NL:RBOBR:2024:302 Rechtbank Oost-Brabant , 31-01-2024 / C/01/385217 / HA ZA 22-475
