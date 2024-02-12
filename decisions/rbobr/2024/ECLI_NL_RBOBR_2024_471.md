@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:471"
 published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2024/9052"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1533"]]
 ---
 
 # ECLI:NL:RBOBR:2024:471 Rechtbank Oost-Brabant , 12-02-2024 / 23/2023
