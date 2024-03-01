@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:770"
 published_in: ["Rechtspraak.nl", "PS-Updates.nl 2024-0206"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CRVB:2026:934, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBOBR:2024:770 Rechtbank Oost-Brabant , 01-03-2024 / 22/2712
