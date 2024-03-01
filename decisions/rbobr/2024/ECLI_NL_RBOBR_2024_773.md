@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:773"
 published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2024-0051", "OGR-Updates.nl 2024-0051"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:6179, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBOBR:2024:773 Rechtbank Oost-Brabant , 01-03-2024 / 21/2635
