@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:758"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2025/199 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBOBR:2024:758 Rechtbank Oost-Brabant , 01-03-2024 / 21/1701 en 21/1702
