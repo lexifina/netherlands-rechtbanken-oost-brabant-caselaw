@@ -3,16 +3,17 @@ ecli: "ECLI:NL:RBOBR:2024:1305"
 court: "Rechtbank Oost-Brabant"
 court_code: "RBOBR"
 docket: "23/1269"
-decided: "2024-03-28"
+decided: "2024-04-02"
 published: "2024-03-28"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:1305"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4854, Bekrachtiging/bevestiging"]]
 ---
 
-# ECLI:NL:RBOBR:2024:1305 Rechtbank Oost-Brabant , 28-03-2024 / 23/1269
+# ECLI:NL:RBOBR:2024:1305 Rechtbank Oost-Brabant , 02-04-2024 / 23/1269
 
 ## Inhoudsindicatie
 
