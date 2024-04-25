@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:1739"
 published_in: ["Rechtspraak.nl", "NJFS 2024/173"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1522, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBOBR:2024:1739 Rechtbank Oost-Brabant , 25-04-2024 / 71-002379-22
