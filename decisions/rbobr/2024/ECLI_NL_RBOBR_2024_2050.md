@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:2050"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1662", "Belastingblad 2024/309 met annotatie van J.A. MONSMA", "Viditax (FutD) 2024080502", "FutD 2024-1750"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:3632, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBOBR:2024:2050 Rechtbank Oost-Brabant , 10-05-2024 / 23/748
