@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:2581"
 published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2024-0793", "AR-Updates.nl 2024-0793", "JAR 2024/188"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2971"]]
 ---
 
 # ECLI:NL:RBOBR:2024:2581 Rechtbank Oost-Brabant , 13-06-2024 / 10794817 \ CV EXPL  23-5255
