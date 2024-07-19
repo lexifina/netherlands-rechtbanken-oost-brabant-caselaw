@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:3437"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2024/142", "Sdu Nieuws Omgevingsrecht 2024/202", "JOM 2024/418"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:5916, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBOBR:2024:3437 Rechtbank Oost-Brabant , 19-07-2024 / SHE 23/2924, 23/2937, 23/3025, 23/3040 en 23/3061
