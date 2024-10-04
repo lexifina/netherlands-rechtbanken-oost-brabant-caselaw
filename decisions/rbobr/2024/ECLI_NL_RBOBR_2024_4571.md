@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:4571"
 published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2025/9215"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1812, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBOBR:2024:4571 Rechtbank Oost-Brabant , 04-10-2024 / 24/1896
