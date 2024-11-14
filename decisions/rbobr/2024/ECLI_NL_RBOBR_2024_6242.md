@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:6242"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:382"]]
 ---
 
 # ECLI:NL:RBOBR:2024:6242 Rechtbank Oost-Brabant , 14-11-2024 / 10458709 EL 23-17
