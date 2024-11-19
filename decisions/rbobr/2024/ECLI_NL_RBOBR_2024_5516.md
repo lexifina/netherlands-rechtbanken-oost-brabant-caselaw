@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:5516"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2024121610", "NLF 2024/2787", "V-N Vandaag 2024/2573", "FutD 2025-0034", "Belastingblad 2025/59", "V-N 2025/7.21 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2024121610", "NLF 2024/2787", "V-N Vandaag 2024/2573", "FutD 2025-0034", "Belastingblad 2025/59", "V-N 2025/7.21"]
 ---
 
 # ECLI:NL:RBOBR:2024:5516 Rechtbank Oost-Brabant , 19-11-2024 / 24/1660
