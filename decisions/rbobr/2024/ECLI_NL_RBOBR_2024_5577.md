@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2024:5577"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/232", "Belastingblad 2025/126 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/232", "Belastingblad 2025/126"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1437, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBOBR:2024:5577 Rechtbank Oost-Brabant , 21-11-2024 / SHE 24/1920
