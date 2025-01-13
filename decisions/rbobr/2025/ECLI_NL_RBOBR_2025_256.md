@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:256"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/539", "Viditax (FutD) 2025032010", "FutD 2025-0632", "NLF 2025/0749 met annotatie van Nicoline Bergman", "V-N 2025/16.23 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/539", "Viditax (FutD) 2025032010", "FutD 2025-0632", "NLF 2025/0749 met annotatie van Nicoline Bergman", "V-N 2025/16.23"]
 ---
 
 # ECLI:NL:RBOBR:2025:256 Rechtbank Oost-Brabant , 13-01-2025 / 24/2269
