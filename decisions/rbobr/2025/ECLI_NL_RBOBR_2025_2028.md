@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:2028"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2899"]]
 ---
 
 # ECLI:NL:RBOBR:2025:2028 Rechtbank Oost-Brabant , 20-03-2025 / C-01-411385 - KG ZA 24-679
