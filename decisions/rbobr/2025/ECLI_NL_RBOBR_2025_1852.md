@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:1852"
 published_in: ["Rechtspraak.nl", "Notamail 2025/72", "Sdu Nieuws Personen- en familierecht 2025/214"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1681"]]
 ---
 
 # ECLI:NL:RBOBR:2025:1852 Rechtbank Oost-Brabant , 26-03-2025 / C-01-401019 en 404029 - HA ZA 24-92 en HA ZA 24-291
