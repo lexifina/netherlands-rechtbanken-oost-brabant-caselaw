@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:8244"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RF 2026/35", "NTHR 2026/30, p.141"]
 ---
 
 # ECLI:NL:RBOBR:2025:8244 Rechtbank Oost-Brabant , 22-05-2025 / 11027532 \ CV EXPL  24-2419
