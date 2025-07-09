@@ -40,7 +40,7 @@ geboren te [geboorteplaats] op [1999] ,
 
 wonende te [adres 1] ,
 
-thans gedetineerd te: Justitieel Complex Zeist.
+thans gedetineerd te: [verblijfplaats].
 
 Dit vonnis is op tegenspraak gewezen naar aanleiding van het onderzoek ter terechtzitting van 19 februari 2025, 13 mei 2025 en 2, 3, 4, 10, 11 en 25 juni 2025.
 
@@ -904,7 +904,7 @@ Teruggave inbeslaggenomen goederen, vermeld op de lijst van inbeslaggenomen voor
 
 1. stk GSM, goednummer G8325951,
 
-aan de redelijkerwijs als rechthebbende aan te merken persoon: B. Josipovic.
+aan de redelijkerwijs als rechthebbende aan te merken persoon: [verdachte] .
 
 Dit vonnis is gewezen door:
 
