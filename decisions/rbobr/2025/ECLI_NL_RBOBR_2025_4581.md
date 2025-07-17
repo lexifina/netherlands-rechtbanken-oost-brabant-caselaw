@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:4581"
-published_in: ["Rechtspraak.nl", "PJ 2025/105 met annotatie van L.A.J. Kuijpers"]
+published_in: ["Rechtspraak.nl", "PJ 2025/105 met annotatie van L.A.J. Kuijpers", "PR-Updates.nl 2025-0133"]
 ---
 
 # ECLI:NL:RBOBR:2025:4581 Rechtbank Oost-Brabant , 17-07-2025 / 10741699 CV EXPL 23-6058
