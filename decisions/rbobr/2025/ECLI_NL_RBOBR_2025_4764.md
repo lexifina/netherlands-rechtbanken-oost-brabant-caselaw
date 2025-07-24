@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:4764"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/40.49"]
 ---
 
 # ECLI:NL:RBOBR:2025:4764 Rechtbank Oost-Brabant , 24-07-2025 / 11620110 TD VERZ 25-577
