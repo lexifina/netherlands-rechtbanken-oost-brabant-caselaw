@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:4992"
-published_in: ["Rechtspraak.nl", "NJF 2025/395", "JA 2025/136"]
+published_in: ["Rechtspraak.nl", "NJF 2025/395", "JA 2025/136", "VR 2026/77"]
 ---
 
 # ECLI:NL:RBOBR:2025:4992 Rechtbank Oost-Brabant , 13-08-2025 / C/01/404645 / HA ZA 24-326
