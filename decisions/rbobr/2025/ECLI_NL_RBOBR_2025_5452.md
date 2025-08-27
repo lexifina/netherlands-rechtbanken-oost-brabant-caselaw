@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:5452"
-published_in: ["Rechtspraak.nl", "OR-Updates.nl 2025-0168", "RO 2025/81", "JONDR 2026/23"]
+published_in: ["Rechtspraak.nl", "OR-Updates.nl 2025-0168", "RO 2025/81", "JONDR 2026/23", "S&S 2026/60"]
 relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBOBR:2026:668"]]
 ---
 
