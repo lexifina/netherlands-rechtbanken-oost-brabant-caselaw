@@ -98,7 +98,7 @@ De bewijsmiddelen zijn opgenomen in het procesdossier van de politie eenheid Zee
 
 1. Het proces-verbaal van de politie eenheid Zeeland-West-Brabant, met nummer PL2000-2021303515-10 (pagina 170), inhoudende de bevindingen van de verbalisant(en), voor zover inhoudende – zakelijk weergegeven –:
 
-Op 13 november 2021 werd ik als explosievenverkenner ter plaatse verzocht op het adres [adres 2] te Ossendrecht in verband met aangetroffen vuurwerk en geïmproviseerde explosieven. (...) Ik zag dat op de slaapkamer aan de achterzijde van de woning op het bed en naast het bed de kamer vol gestapeld was met dozen gevuld met vuurwerk in originele verpakking. Daarnaast zag ik dat op een tafeltje een aantal zelf geïmproviseerde explosieven waren gemaakt in een kartonnen koker met daaruit een lont. Deze kokers waren voorzien van zelfgemaakte etiketten met opschrift PROPYRO en waren afgedicht met lijm. Op de kamer naast deze slaapkamer troffen wij tal van attributen aan voor de vervaardiging van dergelijke IED's . Ik zag onder meer een groot aantal kartonnen kokers staan, rollen met vuurwerklont, 1 metalen koker en een groot aantal diverse poeders waarvan bekend is dat deze gebruikt worden voor de fabricage van IED's. Bij deze attributen zag ik ook een printer staan waarnaast witte en zwarte etiketten lagen met opschrift "Propiro". Dit waren dezelfde etiketten als welke inmiddels waren aangebracht op een aantal IED's. Ook werden een aantal kokers aangetroffen welke aan elkaar waren getaped en middels lonten aan elkaar waren verbonden.
+Op 13 november 2021 werd ik als explosievenverkenner ter plaatse verzocht op het adres [adres 2] te Ossendrecht in verband met aangetroffen vuurwerk en geïmproviseerde explosieven. (...) Ik zag dat op de slaapkamer aan de achterzijde van de woning op het bed en naast het bed de kamer vol gestapeld was met dozen gevuld met vuurwerk in originele verpakking. Daarnaast zag ik dat op een tafeltje een aantal zelf geïmproviseerde explosieven waren gemaakt in een kartonnen koker met daaruit een lont. Deze kokers waren voorzien van zelfgemaakte etiketten met opschrift [bedrijf 2] en waren afgedicht met lijm. Op de kamer naast deze slaapkamer troffen wij tal van attributen aan voor de vervaardiging van dergelijke IED's . Ik zag onder meer een groot aantal kartonnen kokers staan, rollen met vuurwerklont, 1 metalen koker en een groot aantal diverse poeders waarvan bekend is dat deze gebruikt worden voor de fabricage van IED's. Bij deze attributen zag ik ook een printer staan waarnaast witte en zwarte etiketten lagen met opschrift "Propiro". Dit waren dezelfde etiketten als welke inmiddels waren aangebracht op een aantal IED's. Ook werden een aantal kokers aangetroffen welke aan elkaar waren getaped en middels lonten aan elkaar waren verbonden.
 
 Voor wat betreft het geïmproviseerde vuurwerk werd de Explosieven Opruiming Dienst in
 
@@ -236,7 +236,7 @@ Naar aanleiding van het onderzoek naar aangetroffen vuurwerk en IED's werd door 
 
 Dit proces-verbaal betreft het onderzoek naar de in beslag genomen goed van de kennisgeving van inbeslagname met volgnummer 11, te weten een mobiele telefoon, merk Samsung S21 5G. Uit onderzoek is gebleken dat [medeverdachte] , geboren op [1994] te [geboorteplaats 2] , de vermoedelijke gebruiker was van het toestel. (...)
 
-Op de voornoemde telefoon stonden diverse video's gerelateerd aan vuurwerk van 25 oktober 2021 tot en met 12 november 2021. (...) Daarnaast waren er nog diverse video's die lieten zien of horen dat er zelfgemaakt knalvuurwerk werd afgestoken. Op deze video's werd op voorhand ook het afgestoken vuurwerk getoond c.q. geshowd. Op de beelden zag je een hand het zelfgemaakte knalvuurwerk vasthouden om de dikte, de lengte en de lengte van de lont te tonen en het omhulsel was zwart van kleur met het logo van propyro erop. (...)
+Op de voornoemde telefoon stonden diverse video's gerelateerd aan vuurwerk van 25 oktober 2021 tot en met 12 november 2021. (...) Daarnaast waren er nog diverse video's die lieten zien of horen dat er zelfgemaakt knalvuurwerk werd afgestoken. Op deze video's werd op voorhand ook het afgestoken vuurwerk getoond c.q. geshowd. Op de beelden zag je een hand het zelfgemaakte knalvuurwerk vasthouden om de dikte, de lengte en de lengte van de lont te tonen en het omhulsel was zwart van kleur met het logo van [bedrijf 2] erop. (...)
 
 Op de in beslag genomen telefoon van verdachte [medeverdachte] werd het chatprogramma Telegram aangetroffen. Van de diverse chatgesprekken werden screenshots veilig gesteld. Een deel van de gesprekken werd hieronder weergegeven.
 
@@ -284,7 +284,7 @@ Chatgesprek met Twente op 5 november: [medeverdachte] stuurt dezelfde advertenti
 
 (...)
 
-Diverse foto's van het zelfgemaakte vuurwerk in diverse diktes en grootte bijna allen met het logo Propyro en genomen in de woning van verdachte [verdachte] en diverse chatgesprekken van Whatsapp.
+Diverse foto's van het zelfgemaakte vuurwerk in diverse diktes en grootte bijna allen met het logo [bedrijf 2] en genomen in de woning van verdachte [verdachte] en diverse chatgesprekken van Whatsapp.
 
 Gesprek met [betrokkene 3] :
 
@@ -382,7 +382,7 @@ De bestelling is niet geleverd.
 
 6. Het proces-verbaal van de politie eenheid Zeeland-West-Brabant, met nummer -47 (pagina 421), inhoudende de bevindingen van de verbalisant(en), voor zover inhoudende – zakelijk weergegeven –:
 
-In onderzoek Berini (ZB2R021122) werden onder meer de historische gegevens gevorderd van producten die door verdachte [verdachte] zijn aangekocht bij een bedrijf, te weten: [bedrijf] .
+In onderzoek Berini (ZB2R021122) werden onder meer de historische gegevens gevorderd van producten die door verdachte [verdachte] zijn aangekocht bij een bedrijf, te weten: [bedrijf 1] .
 
 Gebleken is dat op zondag 8 december 2019 door [verdachte] , woonachtig op het [adres 3] ) in Bergen op Zoom voor een bedrag van € 14,95 (inclusief verzendkosten) 1 kilozak Kaliumnitraat/ Salpeter E252, behorende bij artikelnummer 19080037D is besteld.
 
@@ -396,7 +396,7 @@ Gebleken is dat op 3 januari 2020 door [verdachte] , woonachtig op het [adres 3]
 
 8. Het proces-verbaal van de politie eenheid Zeeland-West-Brabant, met nummer -49 (pagina 436), inhoudende de bevindingen van de verbalisant(en), voor zover inhoudende – zakelijk weergegeven –:
 
-In onderzoek Berini (ZB2R021122) werden onder meer de historische gegevens gevorderd van producten die door verdachte [verdachte] zijn aangekocht bij een bedrijf, te weten: Yourpyro.
+In onderzoek Berini (ZB2R021122) werden onder meer de historische gegevens gevorderd van producten die door verdachte [verdachte] zijn aangekocht bij een bedrijf, te weten: [bedrijf 2] .
 
 Gebleken is dat op 11 april 2020 door [verdachte] , woonachtig op het [adres 3] ) in Bergen op Zoom voor een bedrag van € 11,99 (inclusief verzendkosten) een veiligheidslont 5M is besteld.
 
@@ -432,7 +432,7 @@ voorbereidingshandelingen als bedoeld in artikel 1.2.2, vijfde lid, onder c, van
 
 De rechtbank overweegt als volgt.
 
-Op 13 november 2021 heeft een doorzoeking plaatsgevonden in een woning aan de [adres 2] te Ossendrecht. In deze woning zijn in de zogenaamde ‘hobbykamer’ tal van attributen aangetroffen voor de vervaardiging van zelf geïmproviseerde explosieven, waaronder kartonnen kokers, rollen met vuurwerklont, een groot aantal poeders waarvan bekend is dat deze gebruikt worden voor de fabricage van zelf geïmproviseerde explosieven en etiketten met het opschrift “PROPYRO”. In de slaapkamer van de broer van verdachte, medeverdachte [medeverdachte] , zijn daadwerkelijk zelf geïmproviseerde explosieven aangetroffen. De etiketten op deze explosieven zijn dezelfde als die op de hobbykamer zijn aangetroffen. Op de telefoon van [medeverdachte] zijn video’s aangetroffen waarop zelfgemaakt knalvuurwerk wordt getoond en vervolgens wordt afgestoken. Ook op dit zelfgemaakt vuurwerk is het opschrift “PROPYRO” te zien.
+Op 13 november 2021 heeft een doorzoeking plaatsgevonden in een woning aan de [adres 2] te Ossendrecht. In deze woning zijn in de zogenaamde ‘hobbykamer’ tal van attributen aangetroffen voor de vervaardiging van zelf geïmproviseerde explosieven, waaronder kartonnen kokers, rollen met vuurwerklont, een groot aantal poeders waarvan bekend is dat deze gebruikt worden voor de fabricage van zelf geïmproviseerde explosieven en etiketten met het opschrift “ [bedrijf 2] ”. In de slaapkamer van de broer van verdachte, medeverdachte [medeverdachte] , zijn daadwerkelijk zelf geïmproviseerde explosieven aangetroffen. De etiketten op deze explosieven zijn dezelfde als die op de hobbykamer zijn aangetroffen. Op de telefoon van [medeverdachte] zijn video’s aangetroffen waarop zelfgemaakt knalvuurwerk wordt getoond en vervolgens wordt afgestoken. Ook op dit zelfgemaakt vuurwerk is het opschrift “ [bedrijf 2] ” te zien.
 
 De betrokkenheid van verdachte blijkt uit het volgende. Getuige [getuige] heeft verklaard dat hij verdachte weleens naar boven zag gaan met spullen en dat verdachte weleens spullen in de hobbykamer heeft gestald. In de hobbykamer zijn enkele doosjes aangetroffen met daarop de adressering van verdachte. Uit het onderzoek is gebleken dat verdachte in ieder geval in de periode van 8 december 2019 tot en met 24 januari 2021 meerdere bestellingen heeft geplaatst voor – onder andere – chemicaliën (bestemd voor de vervaardiging van zelf geïmproviseerde explosieven) en stukken lont. Verdachte heeft dus soortgelijke goederen aangekocht als de goederen die zijn aangetroffen in de woning aan de [adres 2] , op de kamer waar hij kennelijk ook goederen stalde.
 
