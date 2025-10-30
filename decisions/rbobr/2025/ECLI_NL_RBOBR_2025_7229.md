@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:7229"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-1459", "OR-Updates.nl 2025-0234", "JOR 2026/70 met annotatie van mr. A.H.B. Bouman"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-1459", "OR-Updates.nl 2025-0234", "JOR 2026/70 met annotatie van mr. A.H.B. Bouman", "JONDR 2026/365"]
 ---
 
 # ECLI:NL:RBOBR:2025:7229 Rechtbank Oost-Brabant , 30-10-2025 / 11768712 \ EJ VERZ  25-294
