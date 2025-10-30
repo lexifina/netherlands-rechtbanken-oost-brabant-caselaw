@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:7133"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/40.35"]
 ---
 
 # ECLI:NL:RBOBR:2025:7133 Rechtbank Oost-Brabant , 30-10-2025 / NL:TZ:0000402100:M001
