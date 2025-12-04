@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:7912"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBOBR:2026:4856"]]
 ---
 
 # ECLI:NL:RBOBR:2025:7912 Rechtbank Oost-Brabant , 04-12-2025 / 24/4152
