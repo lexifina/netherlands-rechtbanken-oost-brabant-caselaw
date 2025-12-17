@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:8635"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Jurisprudentie Grondzaken 2026/16 met annotatie van mr. N. Thorborg, R.C.K. van Andel"]
 ---
 
 # ECLI:NL:RBOBR:2025:8635 Rechtbank Oost-Brabant , 17-12-2025 / C-01-402693 - HA ZA 24-211
