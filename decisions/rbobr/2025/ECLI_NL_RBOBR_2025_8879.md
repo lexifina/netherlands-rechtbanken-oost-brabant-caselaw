@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:8879"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0055", "PS-Updates.nl 2026-0039"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0055", "PS-Updates.nl 2026-0039", "Jurisprudentie HSE 2026/8"]
 ---
 
 # ECLI:NL:RBOBR:2025:8879 Rechtbank Oost-Brabant , 18-12-2025 / 10486568 CV EXPL 23-2614 en onderliggende vrijwaringsprocedures
