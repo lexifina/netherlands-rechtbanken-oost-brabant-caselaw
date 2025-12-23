@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:8893"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0107", "VAAN-AR-Updates.nl 2026-0107", "Prg. 2026/76"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0107", "VAAN-AR-Updates.nl 2026-0107", "Prg. 2026/76", "School en Wet 2026/106"]
 ---
 
 # ECLI:NL:RBOBR:2025:8893 Rechtbank Oost-Brabant , 23-12-2025 / 11814529 \ EJ VERZ  25-434
