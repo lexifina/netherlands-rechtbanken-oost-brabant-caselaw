@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2025:8474"
-published_in: ["Rechtspraak.nl", "AB 2026/80 met annotatie van R. Ortlep, Redactie"]
+published_in: ["Rechtspraak.nl", "AB 2026/80 met annotatie van R. Ortlep"]
 ---
 
 # ECLI:NL:RBOBR:2025:8474 Rechtbank Oost-Brabant , 24-12-2025 / 25/291
