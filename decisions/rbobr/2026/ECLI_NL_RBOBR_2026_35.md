@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:35"
-published_in: ["Rechtspraak.nl", "Notamail 2026/19", "Sdu Nieuws Personen- en familierecht 2026/76", "JERF Actueel 2026/28", "ERF-Updates.nl 2026-0102", "VEAN-ERF-Updates.nl 2026-0102"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/19", "Sdu Nieuws Personen- en familierecht 2026/76", "JERF Actueel 2026/28", "ERF-Updates.nl 2026-0102", "VEAN-ERF-Updates.nl 2026-0102", "JERF 2026/110 met annotatie van mr. L.A.G.M. van der Geld"]
 ---
 
 # ECLI:NL:RBOBR:2026:35 Rechtbank Oost-Brabant , 09-01-2026 / 11846154 \ EJ VERZ  25-473
