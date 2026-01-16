@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:957"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JPF 2026/56"]
 ---
 
 # ECLI:NL:RBOBR:2026:957 Rechtbank Oost-Brabant , 16-01-2026 / C/01/419134 / FA RK 25-371
