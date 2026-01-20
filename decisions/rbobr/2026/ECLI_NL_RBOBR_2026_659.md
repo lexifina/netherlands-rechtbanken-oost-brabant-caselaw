@@ -18,8 +18,6 @@ published_in: ["Rechtspraak.nl"]
 
 Overeenkomstig de tussen het openbaar ministerie en verdachte gemaakte procesafspraken wordt verdachte veroordeeld voor het medeplegen van handel in en bezit van cocaïne tot een onvoorwaardelijke gevangenisstraf van 30 maanden.
 
-Met vriendelijke groet,
-
 ## Uitspraak
 
 vonnis
