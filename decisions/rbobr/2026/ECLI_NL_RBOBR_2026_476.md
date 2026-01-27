@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:476"
-published_in: ["Rechtspraak.nl", "JAAN 2026/50"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/50", "BR 2026/33 met annotatie van B.T. Tonino\t\t, R.J. Idema"]
 ---
 
 # ECLI:NL:RBOBR:2026:476 Rechtbank Oost-Brabant , 27-01-2026 / 421401 KG ZA 25-619
