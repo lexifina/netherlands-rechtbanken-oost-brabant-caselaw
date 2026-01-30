@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:1615"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/130"]
 ---
 
 # ECLI:NL:RBOBR:2026:1615 Rechtbank Oost-Brabant , 30-01-2026 / 11962954 CV EXPL 25-8645
