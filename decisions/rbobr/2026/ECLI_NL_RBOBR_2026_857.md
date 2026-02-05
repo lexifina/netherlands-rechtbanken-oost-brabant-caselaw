@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:857"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0246", "Sdu Nieuws Arbeidsrecht 2026/60", "JAR 2026/61 met annotatie van mr. I. Baijens"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0246", "Sdu Nieuws Arbeidsrecht 2026/60", "JAR 2026/61 met annotatie van mr. I. Baijens", "JIN 2026/56 met annotatie van mr. D. Quist"]
 ---
 
 # ECLI:NL:RBOBR:2026:857 Rechtbank Oost-Brabant , 05-02-2026 / 11594168_E05012026
