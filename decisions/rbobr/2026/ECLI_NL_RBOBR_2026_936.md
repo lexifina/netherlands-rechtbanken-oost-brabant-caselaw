@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:936"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026030504", "FutD 2026-0416"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026030504", "FutD 2026-0416", "Belastingblad 2026/173 met annotatie van G. Groenewegen"]
 ---
 
 # ECLI:NL:RBOBR:2026:936 Rechtbank Oost-Brabant , 12-02-2026 / 25/911
