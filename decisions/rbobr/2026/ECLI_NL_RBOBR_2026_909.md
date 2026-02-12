@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:909"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Huurrecht 2026/32"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Huurrecht 2026/32", "WR 2026/76", "Sdu Nieuws Huurrecht 2026/116"]
 ---
 
 # ECLI:NL:RBOBR:2026:909 Rechtbank Oost-Brabant , 12-02-2026 / 11724284 CV EXPL  25-3960
