@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:933"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/168 met annotatie van J.C. Scherff"]
 ---
 
 # ECLI:NL:RBOBR:2026:933 Rechtbank Oost-Brabant , 12-02-2026 / 25/1649
