@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:934"
-published_in: ["Rechtspraak.nl", "NLF 2026/0437", "Viditax (FutD) 2026030401", "Sdu Nieuws Belastingzaken 2026/351", "FutD 2026-0391"]
+published_in: ["Rechtspraak.nl", "NLF 2026/0437", "Viditax (FutD) 2026030401", "Sdu Nieuws Belastingzaken 2026/351", "FutD 2026-0391", "Belastingblad 2026/169 met annotatie van L.J. Boone"]
 ---
 
 # ECLI:NL:RBOBR:2026:934 Rechtbank Oost-Brabant , 12-02-2026 / 25/1254
