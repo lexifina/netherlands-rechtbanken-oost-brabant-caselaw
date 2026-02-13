@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:1019"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JW 2026/32", "Jurisprudentie HSE 2026/26"]
 ---
 
 # ECLI:NL:RBOBR:2026:1019 Rechtbank Oost-Brabant , 13-02-2026 / 01.201732.23
