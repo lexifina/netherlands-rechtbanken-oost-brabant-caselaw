@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:923"
-published_in: ["Rechtspraak.nl", "Notamail 2026/51", "Sdu Nieuws Personen- en familierecht 2026/170", "ERF-Updates.nl 2026-0176", "VEAN-ERF-Updates.nl 2026-0176"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/51", "Sdu Nieuws Personen- en familierecht 2026/170", "ERF-Updates.nl 2026-0176", "VEAN-ERF-Updates.nl 2026-0176", "JERF Actueel 2026/75", "JERF Actueel 2026/76", "JERF 2026/91 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBOBR:2026:923 Rechtbank Oost-Brabant , 20-02-2026 / 11931196 \ EJ VERZ  25-580
