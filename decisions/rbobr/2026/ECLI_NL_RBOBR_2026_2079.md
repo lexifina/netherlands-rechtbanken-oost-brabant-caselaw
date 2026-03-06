@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:2079"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Insolventierecht 2026/48", "INS-Updates.nl 2026-0075"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Insolventierecht 2026/48", "INS-Updates.nl 2026-0075", "RI 2026/51"]
 ---
 
 # ECLI:NL:RBOBR:2026:2079 Rechtbank Oost-Brabant , 06-03-2026 / C/01/25/145 F
