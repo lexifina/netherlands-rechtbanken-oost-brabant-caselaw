@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Mondelinge uitspraak"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:1434"
-published_in: ["Rechtspraak.nl", "NBR-Wmo/2026/004 met annotatie van mr. Kevin van Schijndel"]
+published_in: ["Rechtspraak.nl", "NBR-Wmo/2026/004 met annotatie van mr. Kevin van Schijndel", "RSV 2026/93"]
 ---
 
 # ECLI:NL:RBOBR:2026:1434 Rechtbank Oost-Brabant , 09-03-2026 / 25/840
