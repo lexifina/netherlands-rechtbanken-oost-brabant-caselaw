@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:1439"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "M en R 2026/50 met annotatie van B. Arentz"]
 ---
 
 # ECLI:NL:RBOBR:2026:1439 Rechtbank Oost-Brabant , 10-03-2026 / 25/786
