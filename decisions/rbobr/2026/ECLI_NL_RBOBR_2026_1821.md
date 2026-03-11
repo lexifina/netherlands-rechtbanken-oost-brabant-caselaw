@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:1821"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0157"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0157", "RAV 2026/59", "VR 2026/156"]
 ---
 
 # ECLI:NL:RBOBR:2026:1821 Rechtbank Oost-Brabant , 11-03-2026 / C/01/416297 / EX RK 25-73
