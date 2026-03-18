@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:1711"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VEAN-ERF-Updates.nl 2026-0226", "ERF-Updates.nl 2026-0226", "Prg. 2026/171", "JERF Actueel 2026/93", "FJR 2026/55.22"]
 ---
 
 # ECLI:NL:RBOBR:2026:1711 Rechtbank Oost-Brabant , 18-03-2026 / C/01/405254 / HA ZA 24-369
