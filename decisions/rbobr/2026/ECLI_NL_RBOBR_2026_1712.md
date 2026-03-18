@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:1712"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VEAN-ERF-Updates.nl 2026-0228", "JERF Actueel 2026/95"]
 ---
 
 # ECLI:NL:RBOBR:2026:1712 Rechtbank Oost-Brabant , 18-03-2026 / C/01/394865 / HA ZA 23-444
