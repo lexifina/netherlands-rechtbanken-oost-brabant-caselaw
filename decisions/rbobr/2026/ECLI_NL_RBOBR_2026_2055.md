@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:2055"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0560"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0560", "JAR 2026/116"]
 ---
 
 # ECLI:NL:RBOBR:2026:2055 Rechtbank Oost-Brabant , 23-03-2026 / 11993305
