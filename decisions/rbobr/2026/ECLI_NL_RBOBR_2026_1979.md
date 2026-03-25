@@ -10,6 +10,7 @@ procedure: "Tussenbeschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:1979"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0527", "VAAN-AR-Updates.nl 2026-0527"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBOBR:2026:3932"]]
 ---
 
 # ECLI:NL:RBOBR:2026:1979 Rechtbank Oost-Brabant , 25-03-2026 / 12037987
