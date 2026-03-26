@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:2001"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2525"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2525", "JAAN 2026/102"]
 ---
 
 # ECLI:NL:RBOBR:2026:2001 Rechtbank Oost-Brabant , 26-03-2026 / C/01/421996 / KG ZA 25-642
