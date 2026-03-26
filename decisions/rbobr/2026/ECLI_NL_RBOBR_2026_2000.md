@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:2000"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2026-0098", "GJ 2026/34", "JA 2026/77", "RAV 2026/58"]
 ---
 
 # ECLI:NL:RBOBR:2026:2000 Rechtbank Oost-Brabant , 26-03-2026 / C/01/417806 / EX RK 25-105
@@ -227,7 +227,7 @@ Mogelijk heeft het verloop van haar twee zwangerschappen [verzoeksters] in de op
 
 5.9.
 
-De rechtbank stelt vast dat er in beide opleidingstrajecten wel degelijk sprake is geweest van intensieve begeleiding. Bij het VieCuri met name na de burn-out waarbij ook een coach is ingeschakeld. In het MMC met name in de eerste zes maanden. Aan [verzoeksters] kan worden toegegeven dat het geen officieel GBT betrof, maar ook [verzoeksters] betwist niet dat opleider Prakken haar toen intensief heeft begeleid. Dat leidde ertoe dat zij vervolgens haar opleiding kon voortzetten, maar uiteindelijk ontstond er toch weer kritiek op haar functioneren.
+De rechtbank stelt vast dat er in beide opleidingstrajecten wel degelijk sprake is geweest van intensieve begeleiding. Bij het VieCuri met name na de burn-out waarbij ook een coach is ingeschakeld. In het MMC met name in de eerste zes maanden. Aan [verzoeksters] kan worden toegegeven dat het geen officieel GBT betrof, maar ook [verzoeksters] betwist niet dat opleider [G] haar toen intensief heeft begeleid. Dat leidde ertoe dat zij vervolgens haar opleiding kon voortzetten, maar uiteindelijk ontstond er toch weer kritiek op haar functioneren.
 
 5.10.
 
