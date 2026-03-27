@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:1965"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "TvAR 2026/8255 met annotatie van N. Knol"]
 ---
 
 # ECLI:NL:RBOBR:2026:1965 Rechtbank Oost-Brabant , 27-03-2026 / 25/1547
