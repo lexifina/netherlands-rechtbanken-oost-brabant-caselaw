@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:2060"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0565", "VAAN-AR-Updates.nl 2026-0565"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0565", "VAAN-AR-Updates.nl 2026-0565", "TAR 2026/27"]
 ---
 
 # ECLI:NL:RBOBR:2026:2060 Rechtbank Oost-Brabant , 01-04-2026 / 12033562 \ EJ VERZ  25-585
