@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:2052"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Financieel recht 2026/54"]
 ---
 
 # ECLI:NL:RBOBR:2026:2052 Rechtbank Oost-Brabant , 01-04-2026 / C/01/420388 / HA ZA 25-640
