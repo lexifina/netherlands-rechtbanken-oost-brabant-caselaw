@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:2211"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0198", "VEAN-ERF-Updates.nl 2026-0198"]
 ---
 
 # ECLI:NL:RBOBR:2026:2211 Rechtbank Oost-Brabant , 01-04-2026 / 12158027
