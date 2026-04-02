@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:2126"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl 2026-0130", "EB 2026/55"]
 ---
 
 # ECLI:NL:RBOBR:2026:2126 Rechtbank Oost-Brabant , 02-04-2026 / 423142 EX RK 26-16
