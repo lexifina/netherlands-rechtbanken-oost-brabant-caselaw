@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:2011"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Jurisprudentie Grondzaken 2026/39 met annotatie van mr. N. Thorborg, R.C.K. van Andel"]
 ---
 
 # ECLI:NL:RBOBR:2026:2011 Rechtbank Oost-Brabant , 02-04-2026 / 11410150 CV EXPL 24-8279
