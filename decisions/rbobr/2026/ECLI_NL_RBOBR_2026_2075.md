@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:2075"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/206 met annotatie van C.M. Dijkstra"]
 ---
 
 # ECLI:NL:RBOBR:2026:2075 Rechtbank Oost-Brabant , 03-04-2026 / 25/1914
