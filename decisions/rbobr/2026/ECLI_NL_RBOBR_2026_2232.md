@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:2232"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/223", "JBPr 2026/42 met annotatie van prof. mr. P.E. Ernste", "TvPP 2026/35, p.132 met annotatie van A.J.J. Kool"]
 ---
 
 # ECLI:NL:RBOBR:2026:2232 Rechtbank Oost-Brabant , 08-04-2026 / C/01/414091 / HA ZA 25-219
