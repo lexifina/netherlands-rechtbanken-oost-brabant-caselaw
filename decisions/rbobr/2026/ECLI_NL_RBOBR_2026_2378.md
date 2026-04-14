@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:2378"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/135 met annotatie van mr. J.H.C.A. Muller"]
 ---
 
 # ECLI:NL:RBOBR:2026:2378 Rechtbank Oost-Brabant , 14-04-2026 / C/01/422336 / KG ZA 26-3
