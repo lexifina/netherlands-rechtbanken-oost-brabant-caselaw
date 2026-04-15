@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:2349"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/251 met annotatie van J.G.E. Gieskes"]
 ---
 
 # ECLI:NL:RBOBR:2026:2349 Rechtbank Oost-Brabant , 15-04-2026 / 24/1400
