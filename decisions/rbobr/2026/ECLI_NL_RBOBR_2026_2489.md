@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:2489"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/166"]
 ---
 
 # ECLI:NL:RBOBR:2026:2489 Rechtbank Oost-Brabant , 15-04-2026 / C/01/409365 / HA ZA 24-656
