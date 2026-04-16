@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOBR:2026:2478"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0626", "VAAN-AR-Updates.nl 2026-0626", "Sdu Nieuws Arbeidsrecht 2026/146", "JAR 2026/135", "Prg. 2026/199", "Jurisprudentie HSE 2026/51"]
 ---
 
 # ECLI:NL:RBOBR:2026:2478 Rechtbank Oost-Brabant , 16-04-2026 / 11786470 \ CV EXPL  25-5018
